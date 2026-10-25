@@ -1,0 +1,117 @@
+# runs 77 (app 0, label 0, ocr 77)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 36
+#   "31/01/2028" @ 12,19 h8
+#   "Pictures" @ 71,19 h8
+#   "Calendar" @ 183,19 h8
+#   "comments" @ 231,19 h8
+#   "El" @ 285,19 h8
+#   ",24999" @ 298,19 h10
+#   "11" @ 338,19 h8
+#   "0.78" @ 360,19 h8
+#   "Privacy" @ 405,19 h10
+#   "learn" @ 13,40 h9
+#   "03" @ 440,40 h9
+#   "repon_v2" @ 464,40 h11
+#   "0.75" @ 363,64 h10
+#   "00" @ 458,64 h10
+#   "37.5%" @ 214,91 h11
+#   "modern" @ 397,91 h11
+#   "IOg" @ 513,91 h14
+#   "to" @ 12,119 h12
+#   "14-05" @ 171,119 h12
+#   "11" @ 321,119 h12
+#   "confim" @ 411,119 h12
+#   "Modem" @ 389,152 h14
+#   "turn" @ 566,153 h13
+#   "corner" @ 638,156 h10
+#   "IOg" @ 697,152 h18
+#   "Fonvard" @ 792,152 h14
+#   "Drafts" @ 105,184 h8
+#   "docked" @ 138,184 h8
+#   "14:08" @ 177,184 h8
+#   "0.78" @ 239,184 h8
+#   "Drafts" @ 348,184 h8
+#   "quid" @ 381,184 h10
+#   "Netwo*," @ 311,205 h9
+#   "nn" @ 363,207 h7
+#   "11" @ 382,205 h9
+#   "22/10/2026" @ 431,205 h9
+ocr	Sign	113,15	22x15	Segoe UI w400 11.2px	0.95
+ocr	add	139,15	19x15	Segoe UI w400 11.2px	0.98
+ocr	any	161,15	18x15	Segoe UI w400 11.2px	0.97
+ocr	to	347,15	10x15	Segoe UI w400 11.2px	0.96
+ocr	the	385,15	16x15	Segoe UI w400 11.2px	0.97
+ocr	shared	444,15	33x15	Segoe UI w400 11.2px	0.95
+ocr	folder	43,37	32x15	Arial w400 12.8px	0.94
+ocr	Our	80,37	21x15	Arial w400 12.8px	0.94
+ocr	team	105,37	28x15	Arial w400 12.8px	0.96
+ocr	Share	137,37	34x15	Arial w400 12.8px	0.90
+ocr	will	174,37	18x15	Arial w400 12.8px	0.96
+ocr	meet	195,37	28x15	Arial w400 12.8px	0.98
+ocr	on	226,37	14x15	Arial w400 12.8px	0.97
+ocr	Tuesday	243,37	48x15	Arial w400 12.8px	0.95
+ocr	Format	294,37	40x15	Arial w400 12.8px	0.93
+ocr	Edit	338,37	22x15	Arial w400 12.8px	0.90
+ocr	Sent	363,37	26x15	Arial w400 12.8px	0.92
+ocr	morning	392,37	46x15	Arial w400 12.8px	0.85
+ocr	xlsx	517,37	22x15	Arial w400 12.8px	0.92
+ocr	Accept	13,63	41x14	Arial w600 12.2px	0.93
+ocr	to	57,63	12x14	Arial w600 12.2px	0.97
+ocr	agree	74,63	33x14	Arial w600 12.2px	0.94
+ocr	the	112,63	18x14	Arial w600 12.2px	0.96
+ocr	Accessibility	135,63	75x14	Arial w600 12.2px	0.92
+ocr	Inbox	212,63	33x14	Arial w600 12.2px	0.96
+ocr	View	250,63	28x14	Arial w600 12.2px	0.94
+ocr	final	282,63	25x14	Arial w600 12.2px	0.95
+ocr	version,	311,63	47x14	Arial w600 12.2px	0.96
+ocr	View	393,63	28x14	Arial w600 12.2px	0.94
+ocr	Sent	425,63	27x14	Arial w600 12.2px	0.88
+ocr	Open	480,63	31x14	Arial w600 12.2px	0.92
+ocr	then	12,85	31x21	Segoe UI w400 15.5px	0.96
+ocr	View	49,85	33x21	Segoe UI w400 15.5px	0.93
+ocr	Pinned	88,85	47x21	Segoe UI w400 15.5px	0.89
+ocr	send	142,85	33x21	Segoe UI w400 15.5px	0.94
+ocr	it	181,85	9x21	Segoe UI w400 15.5px	0.95
+ocr	to	195,85	14x21	Segoe UI w400 15.5px	0.95
+ocr	the	261,85	22x21	Segoe UI w400 15.5px	0.95
+ocr	board.	288,85	44x21	Segoe UI w400 15.5px	0.95
+ocr	Privacy	338,85	52x21	Segoe UI w400 15.5px	0.94
+ocr	Outbox	455,85	51x21	Segoe UI w400 15.5px	0.93
+ocr	Remember	540,85	74x21	Segoe UI w400 15.5px	0.91
+ocr	update	31,113	51x22	Segoe UI w400 16.5px	0.91
+ocr	the	84,113	24x22	Segoe UI w400 16.5px	0.92
+ocr	contact	112,113	54x22	Segoe UI w400 16.5px	0.92
+ocr	Help	216,113	34x22	Segoe UI w400 16.5px	0.96
+ocr	View	254,113	35x22	Segoe UI w400 16.5px	0.94
+ocr	list	294,113	21x22	Segoe UI w400 16.5px	0.96
+ocr	and	334,113	27x22	Segoe UI w400 16.5px	0.93
+ocr	Insert	365,113	41x22	Segoe UI w400 16.5px	0.90
+ocr	the	468,113	24x22	Segoe UI w400 16.5px	0.92
+ocr	Cancel	498,113	50x23	Segoe UI w400 17.0px	0.88
+ocr	Documents	13,148	95x22	Arial w400 18.8px	0.90
+ocr	room	113,148	43x22	Arial w400 18.8px	0.98
+ocr	INV-20419	163,148	89x22	Arial w400 18.8px	0.86
+ocr	booking.	259,148	71x22	Arial w400 18.8px	0.93
+ocr	Insert	336,148	47x22	Arial w400 18.8px	0.89
+ocr	offices	459,148	54x22	Arial w400 18.8px	0.92
+ocr	often	518,148	42x22	Arial w400 18.8px	0.93
+ocr	the	605,148	26x22	Arial w400 18.8px	0.98
+ocr	Accept	728,148	57x22	Arial w400 18.8px	0.94
+ocr	Network	12,180	40x14	Segoe UI w400 10.8px	0.94
+ocr	room	56,180	26x14	Segoe UI w400 10.8px	0.96
+ocr	out	85,180	16x14	Segoe UI w400 10.8px	0.95
+ocr	into	206,180	19x14	Segoe UI w400 10.8px	0.90
+ocr	Account	279,180	39x14	Segoe UI w400 10.8px	0.91
+ocr	Sign	322,180	21x14	Segoe UI w400 10.8px	0.97
+ocr	clock	13,200	29x17	Segoe UI w400 12.8px	0.92
+ocr	Bluetooth	48,200	55x17	Segoe UI w400 12.8px	0.92
+ocr	space	109,200	32x17	Segoe UI w400 12.8px	0.92
+ocr	for	146,200	16x17	Segoe UI w400 12.8px	0.98
+ocr	calls.	167,200	27x17	Segoe UI w400 12.8px	0.91
+ocr	Privacy	201,199	43x18	Segoe UI w400 12.8px	0.97
+ocr	Illustrated	249,200	56x17	Segoe UI w400 12.8px	0.93
+ocr	Drafts	393,200	34x17	Segoe UI w400 12.8px	0.90
+ocr	Bluetooth	497,200	55x17	Segoe UI w400 12.8px	0.92
+ocr	guides	556,200	37x17	Segoe UI w400 12.8px	0.92

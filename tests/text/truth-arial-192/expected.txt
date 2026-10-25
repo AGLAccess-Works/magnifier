@@ -1,0 +1,121 @@
+# runs 95 (app 0, label 0, ocr 95)
+# collisions 0
+# mixed-style neighbours 2
+#   ocr "Downloads" Segoe UI w600 32.5px  |  ocr "Illustrator" Arial w400 32.5px
+#   ocr "Downloads" Segoe UI w600 32.5px  |  ocr "Forward" Arial w400 32.5px
+# not redrawn 20
+#   "IJpdates" @ 45,36 h19
+#   "Q3_report_v2.xlsx" @ 267,36 h19
+#   "00" @ 824,36 h15
+#   "El" @ 24,127 h20
+#   ",249.99" @ 56,127 h24
+#   "mm" @ 357,132 h15
+#   "El" @ 408,127 h20
+#   "9.99" @ 439,127 h20
+#   "00" @ 1004,127 h20
+#   "rn" @ 1043,132 h15
+#   "Q3_report_v2.xlsx" @ 506,179 h27
+#   "21,249.99" @ 769,179 h26
+#   "00" @ 1432,179 h21
+#   "ID-OOII" @ 27,236 h23
+#   "11" @ 147,236 h23
+#   "review" @ 787,236 h23
+#   "'NV-20419" @ 257,300 h27
+#   "00" @ 830,300 h27
+#   "00" @ 1251,300 h27
+#   "nn" @ 179,366 h11
+ocr	14:05	130,31	53x25	Arial w400 21.2px	0.94
+ocr	Search	191,31	67x25	Arial w400 21.2px	0.97
+ocr	quiet	447,31	46x25	Arial w400 21.2px	0.94
+ocr	space	502,31	57x25	Arial w400 21.2px	0.94
+ocr	for	565,31	25x25	Arial w400 21.2px	0.97
+ocr	calls.	598,31	48x25	Arial w400 21.2px	0.94
+ocr	Illustrated	654,31	92x25	Arial w400 21.2px	0.93
+ocr	guides	753,31	63x25	Arial w400 21.2px	0.94
+ocr	explain	865,31	67x25	Arial w400 21.2px	0.94
+ocr	how	939,31	39x25	Arial w400 21.2px	0.98
+ocr	to	24,73	20x28	Arial w400 24.0px	0.98
+ocr	Help	53,73	49x28	Arial w400 24.0px	0.95
+ocr	Outbox	111,73	77x28	Arial w400 24.0px	0.98
+ocr	31/01/2025	196,73	120x28	Arial w400 24.0px	0.94
+ocr	R2-D2	326,73	69x28	Arial w400 24.0px	0.96
+ocr	install	404,73	61x28	Arial w400 24.0px	0.95
+ocr	the	474,73	33x28	Arial w400 24.0px	0.98
+ocr	software,	516,73	97x28	Arial w400 24.0px	0.99
+ocr	Bluetooth	622,73	101x28	Arial w400 24.0px	0.91
+ocr	cloud	732,73	57x28	Arial w400 24.0px	0.95
+ocr	clear	798,73	52x28	Arial w400 24.0px	0.97
+ocr	the	859,73	33x28	Arial w400 24.0px	0.98
+ocr	cache	901,73	64x28	Arial w400 24.0px	0.99
+ocr	Sent	974,73	49x28	Arial w400 24.0px	0.98
+ocr	A1	151,121	33x32	Arial w400 27.2px	0.94
+ocr	B2-C3D4	183,121	112x32	Arial w400 27.2px	0.92
+ocr	and	302,121	45x32	Arial w400 27.2px	0.98
+ocr	1001	498,121	61x32	Arial w400 27.2px	0.99
+ocr	restart	566,121	77x32	Arial w400 27.2px	0.94
+ocr	clock	650,121	62x32	Arial w400 27.2px	0.98
+ocr	the	719,121	38x32	Arial w400 27.2px	0.97
+ocr	computer	765,121	114x32	Arial w400 27.2px	0.96
+ocr	when	885,121	65x32	Arial w400 27.2px	0.99
+ocr	the	957,121	38x32	Arial w400 27.2px	0.97
+ocr	Accept	23,172	98x34	Arial w600 29.5px	0.98
+ocr	update	131,172	97x34	Arial w600 29.5px	0.99
+ocr	clear	236,172	69x34	Arial w600 29.5px	0.97
+ocr	has	315,172	51x34	Arial w600 29.5px	0.98
+ocr	finished.	375,172	121x34	Arial w600 29.5px	0.95
+ocr	The	909,172	52x34	Arial w600 29.5px	0.98
+ocr	quarterly	970,172	126x34	Arial w600 29.5px	0.96
+ocr	report	1105,172	85x34	Arial w600 29.5px	0.98
+ocr	is	1200,172	25x34	Arial w600 29.5px	0.98
+ocr	ready	1233,172	79x34	Arial w600 29.5px	0.98
+ocr	Format	1321,172	100x34	Arial w600 29.5px	0.96
+ocr	Downloads	298,225	155x41	Segoe UI w600 32.5px	0.94
+ocr	Illustrator	466,229	134x38	Arial w400 32.5px	0.91
+ocr	B2-C3D4	927,229	134x38	Arial w400 32.5px	0.86
+ocr	Display	1278,229	107x38	Arial w400 32.5px	0.87
+ocr	Forward	170,230	119x38	Arial w400 32.5px	0.92
+ocr	for	609,230	38x38	Arial w400 32.5px	0.95
+ocr	Network	657,230	119x38	Arial w400 32.5px	0.89
+ocr	A1	887,230	40x38	Arial w400 32.5px	0.94
+ocr	before	1069,230	92x38	Arial w400 32.5px	0.94
+ocr	Friday.	1170,230	97x38	Arial w400 32.5px	0.95
+ocr	Drafts	1393,230	87x38	Arial w400 32.5px	0.93
+ocr	Please	1489,230	99x38	Arial w400 32.5px	0.86
+ocr	check	24,291	99x44	Arial w400 38.0px	0.96
+ocr	R2-D2	133,291	110x44	Arial w400 38.0px	0.96
+ocr	Network	444,291	139x44	Arial w400 38.0px	0.94
+ocr	Bluetooth	593,291	161x44	Arial w400 38.0px	0.92
+ocr	the	763,291	53x44	Arial w400 38.0px	0.98
+ocr	figures	890,291	114x44	Arial w400 38.0px	0.84
+ocr	Help	1014,291	78x44	Arial w400 38.0px	0.97
+ocr	in	1104,291	30x44	Arial w400 38.0px	0.96
+ocr	Open	1145,291	93x44	Arial w400 38.0px	0.98
+ocr	section	1311,291	120x44	Arial w400 38.0px	0.97
+ocr	11	1443,291	42x47	Arial w400 38.0px	0.93
+ocr	Downloads	24,354	105x28	Segoe UI w400 21.2px	0.92
+ocr	two	136,354	35x28	Segoe UI w400 21.2px	0.95
+ocr	and	210,354	35x28	Segoe UI w400 21.2px	0.97
+ocr	out	251,354	32x28	Segoe UI w400 21.2px	0.94
+ocr	add	290,354	36x28	Segoe UI w400 21.2px	0.96
+ocr	any	333,354	33x28	Segoe UI w400 21.2px	0.96
+ocr	comments	374,354	98x28	Segoe UI w400 21.2px	0.93
+ocr	to	479,354	20x28	Segoe UI w400 21.2px	0.94
+ocr	the	504,354	30x28	Segoe UI w400 21.2px	0.96
+ocr	shared	543,354	64x28	Segoe UI w400 21.2px	0.93
+ocr	Format	616,354	67x28	Segoe UI w400 21.2px	0.85
+ocr	Tools	692,354	50x28	Segoe UI w400 21.2px	0.88
+ocr	Downloads	750,354	105x28	Segoe UI w400 21.2px	0.92
+ocr	out	24,400	37x28	Arial w600 24.0px	0.97
+ocr	folder.	70,400	72x28	Arial w600 24.0px	0.96
+ocr	Personalisation	152,400	179x28	Arial w600 24.0px	0.97
+ocr	Our	339,400	43x28	Arial w600 24.0px	0.98
+ocr	team	390,400	56x28	Arial w600 24.0px	0.97
+ocr	olive	456,400	55x28	Arial w600 24.0px	0.96
+ocr	Sent	518,400	52x28	Arial w600 24.0px	0.99
+ocr	will	580,400	39x28	Arial w600 24.0px	0.94
+ocr	Privacy	626,400	85x28	Arial w600 24.0px	0.97
+ocr	100%	719,400	61x28	Arial w600 24.0px	0.95
+ocr	meet	790,400	56x28	Arial w600 24.0px	0.97
+ocr	Settings	855,400	95x28	Arial w600 24.0px	0.99
+ocr	on	959,401	27x26	Arial w600 24.0px	0.96
+ocr	Tuesday	998,400	96x28	Arial w600 24.0px	0.95

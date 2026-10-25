@@ -1,0 +1,76 @@
+# runs 65 (app 0, label 0, ocr 65)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 7
+#   "Seve" @ 268,21 h9
+#   "Neovork" @ 301,20 h10
+#   "Calender" @ 13,46 h10
+#   "Neovork" @ 519,46 h10
+#   "Shere" @ 111,72 h10
+#   "Neovork" @ 395,72 h10
+#   "Arrnunt" @ 184,99 h9
+ocr	Recent	12,16	40x18	Segoe UI w400 13.2px	0.96
+ocr	Settings	56,16	47x18	Segoe UI w400 13.2px	0.93
+ocr	Notifications	109,16	74x18	Segoe UI w400 13.2px	0.93
+ocr	Print	188,16	27x18	Segoe UI w400 13.2px	0.96
+ocr	Outbox	220,16	44x18	Segoe UI w400 13.2px	0.94
+ocr	Sent	355,16	26x18	Segoe UI w400 13.2px	0.98
+ocr	Delete	386,16	38x18	Segoe UI w400 13.2px	0.97
+ocr	Delete	429,16	38x18	Segoe UI w400 13.2px	0.97
+ocr	out	472,16	20x18	Segoe UI w400 13.2px	0.98
+ocr	Help	496,16	27x18	Segoe UI w400 13.2px	0.97
+ocr	Display	69,42	42x18	Segoe UI w400 13.2px	0.98
+ocr	Apply	116,42	34x18	Segoe UI w400 13.2px	0.97
+ocr	Notifications	153,42	74x18	Segoe UI w400 13.2px	0.92
+ocr	Reply	233,42	32x18	Segoe UI w400 13.2px	0.95
+ocr	Recent	270,42	40x18	Segoe UI w400 13.2px	0.97
+ocr	Pinned	314,42	40x18	Segoe UI w400 13.2px	0.94
+ocr	File	360,42	20x18	Segoe UI w400 13.2px	0.96
+ocr	Bluetooth	383,42	57x18	Segoe UI w400 13.2px	0.94
+ocr	Documents	445,42	67x18	Segoe UI w400 13.2px	0.92
+ocr	Reply	573,42	32x18	Segoe UI w400 13.2px	0.95
+ocr	Accept	12,68	39x17	Segoe UI w400 13.0px	0.99
+ocr	Account	57,68	47x17	Segoe UI w400 13.0px	0.97
+ocr	Sent	148,68	25x17	Segoe UI w400 13.0px	0.98
+ocr	Cancel	179,68	38x17	Segoe UI w400 13.0px	0.98
+ocr	Apply	222,68	33x17	Segoe UI w400 13.0px	0.98
+ocr	Forward	260,68	47x17	Segoe UI w400 13.0px	0.94
+ocr	Settings	312,68	46x17	Segoe UI w400 13.0px	0.95
+ocr	Sign	364,68	25x17	Segoe UI w400 13.0px	0.98
+ocr	Outbox	449,68	43x17	Segoe UI w400 13.0px	0.98
+ocr	Sign	497,68	25x17	Segoe UI w400 13.0px	0.98
+ocr	Outbox	12,94	44x18	Segoe UI w400 13.2px	0.93
+ocr	Print	60,94	27x18	Segoe UI w400 13.2px	0.96
+ocr	Cancel	92,94	39x18	Segoe UI w400 13.2px	0.97
+ocr	Archive	135,94	43x18	Segoe UI w400 13.2px	0.94
+ocr	Cancel	236,94	39x18	Segoe UI w400 13.2px	0.97
+ocr	Drafts	279,94	35x18	Segoe UI w400 13.2px	0.98
+ocr	Notifications	318,94	74x18	Segoe UI w400 13.2px	0.92
+ocr	Help	398,94	27x18	Segoe UI w400 13.2px	0.97
+ocr	Drafts	430,94	35x18	Segoe UI w400 13.2px	0.98
+ocr	Personalisation	471,94	88x18	Segoe UI w400 13.2px	0.95
+ocr	Drafts	563,94	35x18	Segoe UI w400 13.2px	0.98
+ocr	Close	12,120	32x18	Segoe UI w400 13.2px	0.98
+ocr	Edit	48,120	22x18	Segoe UI w400 13.2px	0.98
+ocr	View	75,120	28x18	Segoe UI w400 13.2px	0.98
+ocr	Privacy	108,120	41x18	Segoe UI w400 13.2px	0.97
+ocr	Accept	154,120	40x18	Segoe UI w400 13.2px	0.96
+ocr	Close	199,120	32x18	Segoe UI w400 13.2px	0.98
+ocr	Forward	235,120	48x18	Segoe UI w400 13.2px	0.98
+ocr	Edit	287,120	22x18	Segoe UI w400 13.2px	0.98
+ocr	Tools	315,120	30x18	Segoe UI w400 13.2px	0.91
+ocr	Downloads	349,120	65x18	Segoe UI w400 13.2px	0.94
+ocr	Format	420,120	41x18	Segoe UI w400 13.2px	0.98
+ocr	Display	466,120	42x18	Segoe UI w400 13.2px	0.98
+ocr	Sign	12,148	25x14	Georgia w400 12.8px	0.85
+ocr	Tools	42,148	31x14	Georgia w400 12.8px	0.85
+ocr	Accept	78,148	38x14	Georgia w400 12.8px	0.89
+ocr	Search	124,148	38x14	Georgia w400 12.8px	0.89
+ocr	File	167,149	19x13	Georgia w400 12.8px	0.87
+ocr	out	192,148	19x14	Georgia w400 12.8px	0.94
+ocr	Downloads	215,148	63x14	Georgia w400 12.8px	0.88
+ocr	Accessibility	285,148	70x14	Georgia w400 12.8px	0.88
+ocr	Edit	360,149	22x14	Georgia w400 12.0px	0.93
+ocr	Share	387,148	32x14	Georgia w400 12.8px	0.91
+ocr	Settings	425,148	45x14	Georgia w400 12.8px	0.88
+ocr	View	476,148	28x14	Georgia w400 12.8px	0.88

@@ -1,0 +1,115 @@
+# runs 66 (app 0, label 0, ocr 66)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 45
+#   "ID-0011" @ 25,36 h16
+#   "nn" @ 108,42 h10
+#   "11" @ 271,37 h15
+#   "00" @ 403,37 h15
+#   "37-596" @ 731,37 h19
+#   "j.smith@example.com" @ 288,79 h23
+#   "has" @ 616,79 h18
+#   "finished." @ 661,79 h18
+#   "The" @ 825,79 h18
+#   "quarterly" @ 875,79 h23
+#   "Q3_report_v2.xlsx" @ 1042,79 h23
+#   "Edit" @ 1252,79 h18
+#   "is" @ 106,127 h19
+#   "rnm" @ 209,133 h13
+#   "review" @ 515,127 h19
+#   "37-5%" @ 776,127 h24
+#   "Privacy" @ 121,179 h28
+#   "INV-20419" @ 416,180 h26
+#   "comments" @ 1114,183 h18
+#   "to" @ 1280,183 h18
+#   "corner" @ 236,245 h16
+#   "00" @ 339,239 h22
+#   "modern" @ 461,237 h24
+#   "37-5%" @ 802,239 h28
+#   "11" @ 1003,237 h24
+#   "AIB2-C3D4" @ 526,302 h33
+#   "00" @ 829,302 h26
+#   "on" @ 891,310 h18
+#   "morning" @ 1572,301 h35
+#   "Install" @ 25,362 h16
+#   "Pictures" @ 178,363 h15
+#   "Notifications" @ 345,362 h16
+#   "version," @ 656,363 h19
+#   "21,249-99" @ 789,363 h19
+#   "219-99" @ 891,363 h19
+#   "to" @ 51,407 h16
+#   "board." @ 205,405 h18
+#   "Remember" @ 297,405 h18
+#   "to" @ 442,407 h16
+#   "update" @ 475,405 h23
+#   "Privacy" @ 570,405 h23
+#   "R2-D2" @ 670,406 h17
+#   "Edit" @ 805,405 h18
+#   "contact" @ 865,407 h16
+#   "list" @ 963,405 h18
+ocr	cache	142,31	52x28	Segoe UI w400 20.8px	0.86
+ocr	and	201,30	35x28	Segoe UI w400 21.2px	0.91
+ocr	restart	295,31	61x26	Segoe UI w400 20.8px	0.87
+ocr	the	364,31	30x28	Segoe UI w400 20.8px	0.93
+ocr	computer	438,31	89x28	Segoe UI w400 20.8px	0.90
+ocr	Sent	536,30	41x28	Segoe UI w400 20.8px	0.89
+ocr	when	587,31	49x28	Segoe UI w400 20.8px	0.90
+ocr	Account	646,31	75x28	Segoe UI w400 20.8px	0.88
+ocr	the	23,71	35x32	Segoe UI w600 24.0px	0.93
+ocr	Delete	66,71	70x32	Segoe UI w600 24.0px	0.88
+ocr	Close	142,71	59x32	Segoe UI w600 24.0px	0.89
+ocr	update	207,71	77x32	Segoe UI w600 24.0px	0.84
+ocr	Accept	535,71	75x32	Segoe UI w600 24.0px	0.85
+ocr	clock	761,71	56x32	Segoe UI w600 24.0px	0.88
+ocr	View	981,71	53x32	Segoe UI w600 24.0px	0.90
+ocr	report	24,121	75x31	Georgia w400 27.2px	0.95
+ocr	ready	134,121	67x31	Georgia w400 27.2px	0.99
+ocr	1001	267,121	57x31	Georgia w400 27.2px	0.98
+ocr	cloud	331,121	66x31	Georgia w400 27.2px	0.97
+ocr	Print	404,121	61x31	Georgia w400 27.2px	0.97
+ocr	for	472,121	35x31	Georgia w400 27.2px	0.98
+ocr	before	600,121	76x31	Georgia w400 27.2px	0.99
+ocr	Friday.	683,121	86x31	Georgia w400 27.2px	0.98
+ocr	Please	855,121	76x31	Georgia w400 27.2px	0.96
+ocr	docked	938,121	86x31	Georgia w400 27.2px	0.91
+ocr	check	24,174	85x33	Georgia w600 29.0px	0.99
+ocr	the	243,174	48x33	Georgia w600 29.0px	0.97
+ocr	figures	300,174	105x33	Georgia w600 29.0px	0.99
+ocr	in	588,174	30x33	Georgia w600 29.0px	0.90
+ocr	Delete	627,174	95x33	Georgia w600 29.0px	0.96
+ocr	section	733,174	107x33	Georgia w600 29.0px	0.98
+ocr	two	852,174	55x33	Georgia w600 29.0px	0.98
+ocr	and	916,174	57x33	Georgia w600 29.0px	0.99
+ocr	add	983,174	56x33	Georgia w600 29.0px	0.99
+ocr	any	1049,174	54x33	Georgia w600 29.0px	0.99
+ocr	Delete	25,232	91x36	Georgia w400 32.0px	0.95
+ocr	Illinois	125,232	100x36	Georgia w400 32.0px	0.98
+ocr	File	396,232	53x36	Georgia w400 32.0px	0.97
+ocr	Save	582,232	65x36	Georgia w400 32.0px	0.99
+ocr	Open	658,232	76x36	Georgia w400 32.0px	0.98
+ocr	the	745,232	45x36	Georgia w400 32.0px	0.99
+ocr	shared	898,232	96x36	Georgia w400 32.0px	0.96
+ocr	log	1033,231	44x38	Georgia w400 32.0px	0.93
+ocr	olive	1088,232	67x36	Georgia w400 32.0px	0.97
+ocr	Archive	23,294	127x43	Georgia w400 37.5px	0.97
+ocr	folder.	163,294	108x43	Georgia w400 37.5px	0.95
+ocr	Our	283,294	65x43	Georgia w400 37.5px	0.98
+ocr	team	360,294	83x43	Georgia w400 37.5px	0.98
+ocr	will	454,294	60x43	Georgia w400 37.5px	0.96
+ocr	meet	733,294	82x43	Georgia w400 37.5px	0.98
+ocr	Tuesday	944,294	138x43	Georgia w400 37.5px	0.96
+ocr	Format	1095,294	123x43	Georgia w400 37.5px	0.90
+ocr	Recent	1229,294	115x43	Georgia w400 37.5px	0.97
+ocr	22/10/2026	1356,294	202x43	Georgia w400 37.5px	0.96
+ocr	Account	92,356	77x28	Segoe UI w400 21.2px	0.87
+ocr	to	261,357	18x26	Segoe UI w400 21.2px	0.94
+ocr	agree	286,356	53x28	Segoe UI w400 21.2px	0.84
+ocr	Calendar	476,355	83x28	Segoe UI w400 21.2px	0.86
+ocr	the	568,356	30x28	Segoe UI w400 21.2px	0.92
+ocr	final	607,356	40x28	Segoe UI w400 21.2px	0.89
+ocr	then	738,356	42x28	Segoe UI w400 21.2px	0.88
+ocr	send	961,355	45x28	Segoe UI w400 21.2px	0.87
+ocr	it	25,397	17x34	Arial w600 25.5px	0.95
+ocr	the	158,395	39x34	Arial w600 25.5px	0.83
+ocr	the	756,395	39x34	Arial w600 25.5px	0.83
+ocr	Open	84,400	65x30	Arial w600 25.5px	0.89

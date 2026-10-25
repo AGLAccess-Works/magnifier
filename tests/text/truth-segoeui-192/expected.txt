@@ -1,0 +1,114 @@
+# runs 89 (app 0, label 0, ocr 89)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 21
+#   "morning" @ 305,38 h21
+#   "00" @ 392,39 h15
+#   "00" @ 170,81 h17
+#   "version," @ 301,81 h20
+#   "log" @ 196,129 h26
+#   "11" @ 323,181 h21
+#   "room" @ 351,187 h15
+#   "Modern" @ 651,180 h22
+#   "turn" @ 953,183 h19
+#   "corner" @ 1076,187 h15
+#   "room" @ 255,247 h16
+#   "mm" @ 342,247 h16
+#   "learn" @ 251,301 h28
+#   "El" @ 520,303 h26
+#   "9.99" @ 560,303 h26
+#   "Accessibility" @ 761,301 h37
+#   "B2-C3D4" @ 1230,303 h26
+#   "ID-OOII" @ 1389,301 h28
+#   "nn" @ 844,369 h11
+#   "nn" @ 306,412 h12
+#   "burn" @ 1050,406 h18
+ocr	will	24,31	30x28	Segoe UI w400 21.0px	0.98
+ocr	meet	62,31	47x28	Segoe UI w400 21.0px	0.97
+ocr	Tuesday	175,31	76x28	Segoe UI w400 21.0px	0.97
+ocr	Edit	260,31	35x28	Segoe UI w400 21.0px	0.96
+ocr	to	421,31	19x28	Segoe UI w400 21.0px	0.98
+ocr	agree	448,31	52x28	Segoe UI w400 21.0px	0.97
+ocr	the	509,31	30x28	Segoe UI w400 21.0px	0.97
+ocr	Cancel	547,31	61x28	Segoe UI w400 21.0px	0.94
+ocr	Close	643,31	50x28	Segoe UI w400 21.0px	0.97
+ocr	on	143,35	24x25	Segoe UI w400 21.0px	0.88
+ocr	Pictures	24,72	83x32	Segoe UI w400 24.0px	0.99
+ocr	final	117,72	45x32	Segoe UI w400 24.0px	0.96
+ocr	Pictures	209,72	83x32	Segoe UI w400 24.0px	0.99
+ocr	then	391,72	48x32	Segoe UI w400 24.0px	0.96
+ocr	send	447,72	50x32	Segoe UI w400 24.0px	0.96
+ocr	Format	506,72	75x32	Segoe UI w400 24.0px	0.99
+ocr	it	590,72	14x32	Segoe UI w400 24.0px	0.98
+ocr	to	612,72	22x32	Segoe UI w400 24.0px	0.99
+ocr	the	643,72	34x32	Segoe UI w400 24.0px	0.99
+ocr	illegal	687,72	62x32	Segoe UI w400 24.0px	0.97
+ocr	Cancel	757,72	70x32	Segoe UI w400 24.0px	0.96
+ocr	board.	836,72	68x32	Segoe UI w400 24.0px	0.98
+ocr	Remember	25,120	128x36	Segoe UI w400 26.8px	0.97
+ocr	to	161,120	25x36	Segoe UI w400 26.8px	1.00
+ocr	update	239,120	83x36	Segoe UI w400 26.8px	0.98
+ocr	the	331,120	38x36	Segoe UI w400 26.8px	1.00
+ocr	0.75	378,120	49x36	Segoe UI w400 26.8px	0.97
+ocr	contact	436,120	87x36	Segoe UI w400 26.8px	0.98
+ocr	list	531,120	33x36	Segoe UI w400 26.8px	0.94
+ocr	Personalisation	573,120	177x36	Segoe UI w400 26.8px	0.91
+ocr	and	758,120	45x36	Segoe UI w400 26.8px	0.98
+ocr	confirm	812,120	90x36	Segoe UI w400 26.8px	0.98
+ocr	the	910,120	38x36	Segoe UI w400 26.8px	1.00
+ocr	INV-20419	957,120	127x36	Segoe UI w400 26.8px	0.95
+ocr	Settings	23,168	114x43	Segoe UI w400 32.0px	0.90
+ocr	cloud	235,169	76x41	Segoe UI w400 32.0px	0.93
+ocr	booking.	432,168	124x43	Segoe UI w400 32.0px	0.86
+ocr	Display	1171,168	102x43	Segoe UI w400 32.0px	0.88
+ocr	Inbox	146,170	79x39	Segoe UI w400 32.0px	0.92
+ocr	Tools	566,170	73x40	Segoe UI w400 32.0px	0.85
+ocr	offices	768,170	91x39	Segoe UI w400 32.0px	0.89
+ocr	often	870,170	72x41	Segoe UI w400 32.0px	0.90
+ocr	the	1022,170	42x39	Segoe UI w400 32.0px	0.93
+ocr	Outbox	24,228	105x43	Segoe UI w400 32.0px	0.99
+ocr	Display	140,228	102x43	Segoe UI w400 32.0px	0.98
+ocr	into	406,228	55x43	Segoe UI w400 32.0px	0.98
+ocr	clock	500,228	72x43	Segoe UI w400 32.0px	0.97
+ocr	Downloads	581,228	158x43	Segoe UI w400 32.0px	0.99
+ocr	Notifications	750,228	179x43	Segoe UI w400 32.0px	0.96
+ocr	quiet	939,228	72x43	Segoe UI w400 32.0px	0.99
+ocr	Bluetooth	1022,228	138x43	Segoe UI w400 32.0px	0.97
+ocr	space	1171,228	80x43	Segoe UI w400 32.0px	0.96
+ocr	for	1262,228	40x43	Segoe UI w400 32.0px	0.99
+ocr	calls.	1312,228	67x43	Segoe UI w400 32.0px	0.98
+ocr	Delete	24,289	106x50	Segoe UI w400 37.2px	0.97
+ocr	Inbox	143,289	92x50	Segoe UI w400 37.2px	0.99
+ocr	Illustrated	342,289	163x50	Segoe UI w400 37.2px	0.97
+ocr	guides	639,289	109x50	Segoe UI w400 37.2px	0.99
+ocr	explain	972,289	117x50	Segoe UI w400 37.2px	0.98
+ocr	how	1101,289	70x50	Segoe UI w400 37.2px	1.00
+ocr	install	1574,289	96x50	Segoe UI w400 37.2px	0.98
+ocr	Print	1682,289	77x50	Segoe UI w400 37.2px	0.99
+ocr	A1	1184,292	41x46	Segoe UI w400 37.2px	0.93
+ocr	to	1528,296	34x42	Segoe UI w400 37.2px	0.80
+ocr	Network	24,357	80x28	Segoe UI w400 21.2px	0.93
+ocr	the	112,357	30x28	Segoe UI w400 21.2px	0.96
+ocr	37.5%	149,357	56x28	Segoe UI w400 21.2px	0.92
+ocr	Bluetooth	213,357	92x28	Segoe UI w400 21.2px	0.90
+ocr	olive	314,357	44x28	Segoe UI w400 21.2px	0.92
+ocr	software,	366,357	85x28	Segoe UI w400 21.2px	0.95
+ocr	Save	458,357	43x28	Segoe UI w400 21.2px	0.97
+ocr	clear	509,357	44x28	Segoe UI w400 21.2px	0.97
+ocr	the	561,357	30x28	Segoe UI w400 21.2px	0.96
+ocr	Illinois	599,357	60x28	Segoe UI w400 21.2px	0.97
+ocr	cache	666,357	54x28	Segoe UI w400 21.2px	0.95
+ocr	Accept	727,357	64x28	Segoe UI w400 21.2px	0.95
+ocr	and	799,357	35x28	Segoe UI w400 21.2px	0.98
+ocr	Display	25,398	83x32	Segoe UI w700 24.0px	0.98
+ocr	restart	116,398	75x32	Segoe UI w700 24.0px	0.98
+ocr	Network	198,398	98x32	Segoe UI w700 24.0px	0.99
+ocr	the	343,398	37x32	Segoe UI w700 24.0px	0.99
+ocr	1,249.99	403,398	96x32	Segoe UI w700 24.0px	0.97
+ocr	Edit	506,398	44x32	Segoe UI w700 24.0px	0.98
+ocr	computer	559,398	109x32	Segoe UI w700 24.0px	0.98
+ocr	j.smith@example.com	677,398	250x32	Segoe UI w700 24.0px	0.99
+ocr	when	934,398	61x32	Segoe UI w700 24.0px	0.99
+ocr	the	1004,398	37x32	Segoe UI w700 24.0px	0.99
+ocr	37.5%	1112,398	69x32	Segoe UI w700 24.0px	0.97
+ocr	update	1189,398	79x32	Segoe UI w700 24.0px	0.98

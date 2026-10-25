@@ -1,0 +1,115 @@
+# runs 78 (app 0, label 0, ocr 78)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 33
+#   "Illustrated" @ 341,36 h17
+#   "Install" @ 644,36 h17
+#   "ID-OOII" @ 262,78 h19
+#   "31/01/2025" @ 532,78 h23
+#   "rnm" @ 724,84 h13
+#   "37.5%" @ 774,79 h18
+#   "11" @ 962,79 h18
+#   "É19.99" @ 339,127 h20
+#   "rnm" @ 779,132 h15
+#   "Accessibility" @ 381,179 h28
+#   "finished." @ 892,179 h22
+#   "turn" @ 1028,180 h21
+#   "j.smith@example.com" @ 22,237 h30
+#   "INV-20419" @ 563,238 h23
+#   "turn" @ 724,239 h22
+#   "review" @ 1360,238 h23
+#   "out" @ 25,302 h26
+#   "Friday." @ 199,300 h35
+#   "turn" @ 412,302 h26
+#   "out" @ 816,302 h26
+#   "22/10/2026" @ 883,300 h34
+#   "Él,249.99" @ 1151,300 h35
+#   "ID-OOII" @ 1430,300 h28
+#   "burn" @ 83,362 h17
+#   "in" @ 205,363 h16
+#   "22/10/2026" @ 229,362 h20
+#   "www.example.co.uk/help" @ 345,362 h21
+#   "Illustrator" @ 761,362 h17
+#   "00" @ 902,363 h16
+#   "Install" @ 408,404 h19
+#   "11" @ 495,405 h18
+#   "modern" @ 737,404 h19
+#   "modern" @ 889,404 h19
+ocr	quiet	24,31	47x27	Segoe UI w600 20.0px	0.93
+ocr	space	79,30	51x27	Segoe UI w600 20.0px	0.89
+ocr	Documents	139,30	103x27	Segoe UI w600 20.0px	0.89
+ocr	for	251,30	26x27	Segoe UI w600 20.0px	0.90
+ocr	calls.	287,30	44x27	Segoe UI w600 20.0px	0.90
+ocr	guides	443,30	60x27	Segoe UI w600 20.0px	0.92
+ocr	cloud	512,31	50x27	Segoe UI w600 20.0px	0.93
+ocr	explain	569,30	65x27	Segoe UI w600 20.0px	0.93
+ocr	how	708,30	39x27	Segoe UI w600 20.0px	0.95
+ocr	to	755,31	19x27	Segoe UI w600 20.0px	0.92
+ocr	install	781,30	54x27	Segoe UI w600 20.0px	0.91
+ocr	the	843,30	29x27	Segoe UI w600 20.0px	0.91
+ocr	1001	27,71	46x32	Segoe UI w600 24.2px	0.82
+ocr	software,	84,70	101x32	Segoe UI w600 24.2px	0.89
+ocr	illegal	192,70	62x32	Segoe UI w600 24.2px	0.92
+ocr	Bluetooth	352,70	103x32	Segoe UI w600 24.2px	0.90
+ocr	Share	461,70	62x32	Segoe UI w600 24.2px	0.90
+ocr	clear	662,70	52x32	Segoe UI w600 24.2px	0.92
+ocr	the	851,70	36x32	Segoe UI w600 24.2px	0.91
+ocr	Close	894,71	59x32	Segoe UI w600 24.2px	0.83
+ocr	clock	995,70	53x32	Segoe UI w600 24.2px	0.94
+ocr	cache	24,117	67x35	Segoe UI w400 26.5px	0.94
+ocr	Delete	99,117	76x35	Segoe UI w400 26.5px	0.92
+ocr	and	184,117	44x35	Segoe UI w400 26.5px	0.95
+ocr	Open	235,117	64x35	Segoe UI w400 26.5px	0.95
+ocr	Privacy	499,117	82x35	Segoe UI w400 26.5px	0.94
+ocr	Pictures	590,117	92x35	Segoe UI w400 26.5px	0.91
+ocr	Accept	690,117	80x35	Segoe UI w400 26.5px	0.93
+ocr	Search	834,117	78x35	Segoe UI w400 26.5px	0.88
+ocr	restart	922,117	75x35	Segoe UI w400 26.5px	0.85
+ocr	the	1006,117	38x35	Segoe UI w400 26.5px	0.95
+ocr	cloud	426,118	65x35	Segoe UI w400 26.5px	0.93
+ocr	computer	24,167	137x42	Segoe UI w600 31.2px	0.96
+ocr	Archive	1367,168	110x41	Segoe UI w600 31.2px	0.94
+ocr	when	176,172	80x36	Segoe UI w600 31.2px	0.95
+ocr	Format	265,172	106x36	Segoe UI w600 31.2px	0.92
+ocr	the	573,172	47x36	Segoe UI w600 31.2px	0.92
+ocr	update	629,172	102x36	Segoe UI w600 31.2px	0.89
+ocr	Close	741,172	79x36	Segoe UI w600 31.2px	0.90
+ocr	has	831,172	54x36	Segoe UI w600 31.2px	0.90
+ocr	The	1099,172	56x36	Segoe UI w600 31.2px	0.94
+ocr	quarterly	1164,172	134x36	Segoe UI w600 31.2px	0.89
+ocr	out	1308,172	49x36	Segoe UI w600 31.2px	0.92
+ocr	report	346,225	87x43	Segoe UI w400 32.0px	0.91
+ocr	ready	1045,225	78x43	Segoe UI w400 32.0px	0.95
+ocr	before	1460,225	92x43	Segoe UI w400 32.0px	0.94
+ocr	Reply	442,226	77x43	Segoe UI w400 32.0px	0.86
+ocr	is	530,226	21x43	Segoe UI w400 32.0px	0.93
+ocr	Bluetooth	793,228	134x40	Segoe UI w400 32.0px	0.94
+ocr	Recent	937,226	98x43	Segoe UI w400 32.0px	0.94
+ocr	for	1132,226	40x43	Segoe UI w400 32.0px	0.95
+ocr	31/01/2025	1184,226	163x43	Segoe UI w400 32.0px	0.91
+ocr	Apply	1562,228	76x40	Segoe UI w400 32.0px	0.96
+ocr	Share	91,287	92x50	Segoe UI w400 37.2px	0.93
+ocr	View	320,288	79x50	Segoe UI w400 37.2px	0.91
+ocr	Open	490,287	91x50	Segoe UI w400 37.2px	0.84
+ocr	Please	591,287	104x50	Segoe UI w400 37.2px	0.91
+ocr	check	709,287	93x50	Segoe UI w400 37.2px	0.95
+ocr	the	1084,287	53x50	Segoe UI w400 37.2px	0.95
+ocr	Open	1326,287	91x50	Segoe UI w400 37.2px	0.84
+ocr	Open	23,356	51x28	Segoe UI w400 21.0px	0.95
+ocr	figures	133,356	63x28	Segoe UI w400 21.0px	0.94
+ocr	1001	591,356	45x28	Segoe UI w400 21.0px	0.86
+ocr	section	644,356	66x28	Segoe UI w400 21.0px	0.94
+ocr	two	718,356	35x28	Segoe UI w400 21.0px	0.97
+ocr	and	859,356	35x28	Segoe UI w400 21.0px	0.99
+ocr	add	935,356	35x28	Segoe UI w400 21.0px	0.97
+ocr	any	977,356	33x28	Segoe UI w400 21.0px	0.96
+ocr	comments	24,395	125x34	Segoe UI w700 27.0px	0.96
+ocr	09:30	158,394	69x36	Segoe UI w700 27.0px	0.93
+ocr	to	236,395	25x34	Segoe UI w700 27.0px	0.97
+ocr	the	269,395	39x34	Segoe UI w700 27.0px	0.97
+ocr	shared	317,395	80x34	Segoe UI w700 27.0px	0.97
+ocr	folder.	525,395	77x34	Segoe UI w700 27.0px	0.94
+ocr	Our	612,395	45x34	Segoe UI w700 27.0px	0.95
+ocr	team	666,395	61x34	Segoe UI w700 27.0px	0.97
+ocr	File	837,395	42x34	Segoe UI w700 27.0px	0.97
+ocr	Account	988,395	99x34	Segoe UI w700 27.0px	0.95

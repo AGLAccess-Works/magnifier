@@ -1,0 +1,102 @@
+# runs 60 (app 0, label 0, ocr 60)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 38
+#   "Settings" @ 12,20 h12
+#   "31/01/2025" @ 399,20 h10
+#   "14:05" @ 465,20 h9
+#   "00" @ 107,45 h11
+#   "Accessibilitf" @ 145,73 h11
+#   "Orans" @ 355,73 h9
+#   "to" @ 391,73 h9
+#   "lÜg" @ 407,73 h11
+#   "rnrn" @ 59,101 h9
+#   "board." @ 167,98 h12
+#   "Nenmork" @ 418,98 h12
+#   "El" @ 500,98 h12
+#   ".24g" @ 520,98 h14
+#   "gg" @ 554,98 h12
+#   "11" @ 55,126 h10
+#   "Network" @ 66,126 h10
+#   "list" @ 156,126 h10
+#   "and" @ 177,126 h10
+#   "confrm" @ 202,126 h10
+#   "room" @ 316,129 h7
+#   "Illustratcr" @ 400,126 h10
+#   "Modern" @ 13,152 h12
+#   "aften" @ 169,152 h12
+#   "22/" @ 212,152 h15
+#   "10/2026" @ 239,152 h15
+#   "turn" @ 303,154 h10
+#   "nn" @ 376,156 h8
+#   "corner" @ 428,156 h8
+#   "roam" @ 480,156 h8
+#   "11" @ 25,181 h9
+#   "31/01/2025" @ 176,180 h12
+#   "37.50/0" @ 312,181 h9
+#   "Q.3_report_v2.xlsx" @ 464,180 h12
+#   "turn" @ 13,207 h12
+#   "Illustrated" @ 52,206 h13
+#   "corner" @ 140,210 h9
+#   "j.smith@example.com" @ 355,206 h16
+#   "rnrn" @ 563,210 h9
+ocr	Downloads	59,16	59x16	Segoe UI w400 12.0px	0.98
+ocr	Accept	124,16	36x16	Segoe UI w400 12.0px	0.95
+ocr	shared	164,16	36x16	Segoe UI w400 12.0px	0.98
+ocr	Cancel	205,16	35x16	Segoe UI w400 12.0px	0.95
+ocr	folder.	244,16	34x16	Segoe UI w400 12.0px	0.98
+ocr	File	282,16	18x16	Segoe UI w400 12.0px	0.98
+ocr	Our	304,16	20x16	Segoe UI w400 12.0px	0.99
+ocr	Illinois	329,16	34x16	Segoe UI w400 12.0px	0.98
+ocr	team	367,16	27x16	Segoe UI w400 12.0px	0.98
+ocr	will	13,39	22x21	Segoe UI w400 15.5px	0.91
+ocr	meet	41,39	35x21	Segoe UI w400 15.5px	0.97
+ocr	on	82,40	17x20	Segoe UI w400 15.0px	0.96
+ocr	Install	132,39	40x21	Segoe UI w400 15.5px	0.96
+ocr	Tuesday	179,39	56x21	Segoe UI w400 15.5px	0.98
+ocr	morning	243,39	58x21	Segoe UI w400 15.5px	0.91
+ocr	Apply	308,39	39x21	Segoe UI w400 15.5px	0.99
+ocr	to	354,39	14x21	Segoe UI w400 15.5px	0.99
+ocr	agree	374,39	39x21	Segoe UI w400 15.5px	0.98
+ocr	the	419,39	22x21	Segoe UI w400 15.5px	0.98
+ocr	final	447,39	29x21	Segoe UI w400 15.5px	0.96
+ocr	Privacy	11,70	42x15	Arial w400 12.8px	0.82
+ocr	Cancel	55,70	40x15	Arial w400 12.8px	0.90
+ocr	version,	97,70	45x15	Arial w400 12.8px	0.95
+ocr	then	214,70	25x15	Arial w400 12.8px	0.95
+ocr	Apply	242,70	32x15	Arial w400 12.8px	0.88
+ocr	Close	278,70	33x15	Arial w400 12.8px	0.93
+ocr	send	313,70	28x15	Arial w400 12.8px	0.91
+ocr	it	344,70	6x15	Arial w400 12.8px	0.97
+ocr	14:05	12,95	40x19	Arial w400 16.0px	0.94
+ocr	the	90,95	22x19	Arial w400 16.0px	0.94
+ocr	Install	118,96	39x17	Arial w400 16.0px	0.94
+ocr	Remember	216,95	79x19	Arial w400 16.0px	0.94
+ocr	Personalisation	302,95	109x19	Arial w400 16.0px	0.89
+ocr	to	481,95	13x19	Arial w400 16.0px	0.92
+ocr	update	576,95	49x19	Arial w400 16.0px	0.94
+ocr	the	630,95	22x19	Arial w400 16.0px	0.94
+ocr	contact	11,122	42x17	Segoe UI w400 12.8px	0.89
+ocr	Cancel	115,122	38x17	Segoe UI w400 13.0px	0.84
+ocr	the	248,122	19x17	Segoe UI w400 13.0px	0.91
+ocr	Settings	268,122	46x17	Segoe UI w400 13.0px	0.86
+ocr	booking.	349,125	46x14	Segoe UI w400 13.0px	0.85
+ocr	Tools	76,147	36x21	Segoe UI w400 16.0px	0.82
+ocr	offices	116,147	46x21	Segoe UI w400 16.0px	0.92
+ocr	Sent	339,147	31x21	Segoe UI w400 16.0px	0.92
+ocr	the	400,147	23x21	Segoe UI w400 16.0px	0.94
+ocr	into	522,147	28x21	Segoe UI w400 16.0px	0.91
+ocr	Help	39,176	27x18	Segoe UI w400 13.2px	0.95
+ocr	Downloads	70,176	65x18	Segoe UI w400 13.2px	0.89
+ocr	quiet	140,176	30x18	Segoe UI w400 13.2px	0.93
+ocr	space	252,176	33x18	Segoe UI w400 13.2px	0.92
+ocr	for	290,176	17x18	Segoe UI w400 13.2px	0.97
+ocr	Documents	356,176	67x18	Segoe UI w400 13.2px	0.91
+ocr	calls.	429,176	28x18	Segoe UI w400 13.2px	0.93
+ocr	guides	195,199	54x24	Segoe UI w400 18.2px	0.89
+ocr	explain	255,199	57x24	Segoe UI w400 18.2px	0.89
+ocr	how	316,199	34x24	Segoe UI w400 18.2px	0.91
+ocr	to	540,199	17x24	Segoe UI w400 18.2px	0.94
+ocr	Downloads	599,199	90x24	Segoe UI w400 18.2px	0.89
+ocr	Forward	692,199	66x24	Segoe UI w400 18.2px	0.91
+ocr	install	765,199	47x24	Segoe UI w400 18.2px	0.87

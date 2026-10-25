@@ -1,0 +1,76 @@
+# runs 69 (app 0, label 0, ocr 69)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 3
+#   "Accessibility" @ 846,93 h26
+#   "Accessibility" @ 432,144 h26
+#   "Accessibility" @ 361,195 h26
+ocr	Tools	25,32	64x38	Segoe UI w400 28.2px	0.91
+ocr	Downloads	96,33	132x36	Segoe UI w400 28.2px	0.96
+ocr	Tools	236,32	64x38	Segoe UI w400 28.2px	0.91
+ocr	Tools	307,32	64x38	Segoe UI w400 28.2px	0.91
+ocr	Share	377,33	66x36	Segoe UI w400 28.2px	0.99
+ocr	Sign	452,33	52x36	Segoe UI w400 28.2px	0.97
+ocr	Cancel	513,33	78x36	Segoe UI w400 28.2px	0.97
+ocr	Save	598,33	55x36	Segoe UI w400 28.2px	0.98
+ocr	Sign	661,33	52x36	Segoe UI w400 28.2px	0.97
+ocr	File	721,33	40x36	Segoe UI w400 28.2px	0.94
+ocr	View	769,33	56x36	Segoe UI w400 28.2px	0.97
+ocr	Downloads	835,33	132x36	Segoe UI w400 28.2px	0.96
+ocr	Print	24,84	55x36	Segoe UI w400 26.8px	0.99
+ocr	Cancel	88,84	78x36	Segoe UI w400 26.8px	0.95
+ocr	Print	173,84	55x36	Segoe UI w400 26.8px	0.99
+ocr	Drafts	236,84	70x36	Segoe UI w400 26.8px	0.99
+ocr	out	315,84	40x36	Segoe UI w400 26.8px	0.99
+ocr	Inbox	363,84	66x36	Segoe UI w400 26.8px	0.99
+ocr	Downloads	438,84	132x36	Segoe UI w400 26.8px	0.94
+ocr	Bluetooth	578,84	116x36	Segoe UI w400 26.8px	0.96
+ocr	Tools	702,83	64x38	Segoe UI w400 26.8px	0.95
+ocr	Inbox	772,84	66x36	Segoe UI w400 26.8px	0.99
+ocr	Delete	996,84	76x36	Segoe UI w400 26.8px	0.96
+ocr	Network	24,135	101x36	Segoe UI w400 26.8px	0.96
+ocr	Insert	133,135	66x36	Segoe UI w400 26.8px	0.97
+ocr	Pictures	208,135	93x36	Segoe UI w400 26.8px	0.96
+ocr	Bluetooth	309,135	116x36	Segoe UI w400 26.8px	0.96
+ocr	Pinned	582,135	81x36	Segoe UI w400 26.8px	0.97
+ocr	Pictures	673,135	93x36	Segoe UI w400 26.8px	0.96
+ocr	out	773,135	40x36	Segoe UI w400 26.8px	0.98
+ocr	Pinned	821,135	81x36	Segoe UI w400 26.8px	0.97
+ocr	Tools	912,134	64x38	Segoe UI w400 26.8px	0.95
+ocr	Open	982,135	65x36	Segoe UI w400 26.8px	1.00
+ocr	Documents	1056,135	135x36	Segoe UI w400 26.8px	0.97
+ocr	Sign	24,186	53x36	Segoe UI w400 27.2px	0.99
+ocr	Settings	84,186	97x36	Segoe UI w400 27.2px	0.93
+ocr	Delete	187,186	78x36	Segoe UI w400 27.2px	0.99
+ocr	Accept	272,186	82x36	Segoe UI w400 27.2px	0.99
+ocr	Tools	513,186	62x36	Segoe UI w400 27.2px	0.86
+ocr	Accept	582,186	82x36	Segoe UI w400 27.2px	0.99
+ocr	Sign	671,186	53x36	Segoe UI w400 27.2px	0.99
+ocr	Format	731,186	85x36	Segoe UI w400 27.2px	0.93
+ocr	Privacy	823,186	84x36	Segoe UI w400 27.2px	0.98
+ocr	Close	914,186	65x36	Segoe UI w400 27.2px	0.98
+ocr	Network	986,186	103x36	Segoe UI w400 27.2px	0.95
+ocr	Outbox	24,237	88x36	Segoe UI w400 26.8px	0.99
+ocr	Accept	121,237	81x36	Segoe UI w400 26.8px	0.96
+ocr	Reply	210,237	64x36	Segoe UI w400 26.8px	0.97
+ocr	Documents	283,237	135x36	Segoe UI w400 26.8px	0.97
+ocr	Search	425,237	79x36	Segoe UI w400 26.8px	0.98
+ocr	Open	512,237	65x36	Segoe UI w400 26.8px	1.00
+ocr	Updates	586,237	98x36	Segoe UI w400 26.8px	0.96
+ocr	Open	691,237	65x36	Segoe UI w400 26.8px	1.00
+ocr	Share	764,237	66x36	Segoe UI w400 26.8px	0.99
+ocr	Forward	839,237	96x36	Segoe UI w400 26.8px	0.95
+ocr	Recent	944,237	80x36	Segoe UI w400 26.8px	0.95
+ocr	Accept	1033,237	81x36	Segoe UI w400 26.8px	0.96
+ocr	Drafts	24,288	70x36	Segoe UI w400 26.8px	0.99
+ocr	Forward	103,288	96x36	Segoe UI w400 26.8px	0.95
+ocr	Inbox	207,288	66x36	Segoe UI w400 26.8px	0.99
+ocr	Calendar	282,288	104x36	Segoe UI w400 26.8px	0.97
+ocr	Notifications	395,288	150x36	Segoe UI w400 26.8px	0.89
+ocr	View	552,288	56x36	Segoe UI w400 26.8px	0.96
+ocr	Account	618,288	97x36	Segoe UI w400 26.8px	0.95
+ocr	Recent	723,288	80x36	Segoe UI w400 26.8px	0.95
+ocr	Updates	812,288	98x36	Segoe UI w400 26.8px	0.96
+ocr	Downloads	918,288	132x36	Segoe UI w400 26.8px	0.94
+ocr	Outbox	1057,288	88x36	Segoe UI w400 26.8px	0.99
+ocr	Sign	1153,288	52x36	Segoe UI w400 26.8px	0.99

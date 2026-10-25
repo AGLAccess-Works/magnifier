@@ -1,0 +1,125 @@
+# runs 74 (app 0, label 0, ocr 74)
+# collisions 0
+# mixed-style neighbours 1
+#   ocr "Reply" Consolas w400 30.0px  |  ocr "Save" Arial w600 30.0px
+# not redrawn 46
+#   "Accessibility" @ 407,37 h19
+#   "E19.99" @ 568,39 h13
+#   "corner" @ 778,42 h10
+#   "ID-OOII" @ 499,78 h17
+#   "00" @ 1044,80 h15
+#   "00" @ 515,129 h17
+#   "11" @ 732,129 h17
+#   "El," @ 962,129 h22
+#   "it" @ 26,179 h20
+#   "to" @ 67,180 h19
+#   "Drafts" @ 109,179 h20
+#   "www." @ 214,185 h14
+#   "example.co.uk/help" @ 280,179 h26
+#   "File" @ 580,179 h20
+#   "the" @ 653,179 h20
+#   "rnm" @ 982,185 h14
+#   "board." @ 1040,179 h20
+#   "eø" @ 1145,180 h19
+#   "Remember" @ 1188,179 h20
+#   "www.example." @ 70,237 h28
+#   "co." @ 284,243 h16
+#   "uk/help" @ 336,237 h28
+#   "ID-0011" @ 470,237 h22
+#   "Calendar" @ 603,237 h22
+#   "€19.99" @ 852,239 h20
+#   "mm" @ 1049,243 h16
+#   "00" @ 1176,239 h20
+#   "€19.99" @ 1499,239 h20
+#   "modern" @ 399,302 h25
+#   "turn" @ 1417,303 h24
+#   "Q3" @ 1689,303 h31
+#   "burn" @ 116,364 h14
+#   "modern" @ 422,364 h14
+#   "room" @ 567,368 h10
+#   "e." @ 733,365 h13
+#   "75" @ 757,365 h13
+#   "www.example.co.uk/help" @ 786,364 h18
+#   "lee%" @ 1154,364 h14
+#   "modern" @ 24,404 h17
+#   "ee" @ 113,406 h15
+#   "El," @ 424,406 h19
+#   "turn" @ 551,405 h16
+#   "corner" @ 748,409 h12
+#   "room" @ 837,409 h12
+#   "report" @ 1753,303 h31
+#   "v2.x1sx" @ 1894,302 h25
+ocr	figures	25,33	80x24	Consolas w400 20.8px	0.95
+ocr	in	114,33	23x24	Consolas w400 20.8px	0.99
+ocr	section	146,33	80x24	Consolas w400 20.8px	0.95
+ocr	two	235,33	34x24	Consolas w400 20.8px	0.97
+ocr	and	278,33	34x24	Consolas w400 20.8px	0.96
+ocr	add	321,33	34x24	Consolas w400 20.8px	0.97
+ocr	any	364,33	34x24	Consolas w400 20.8px	0.96
+ocr	comments	646,33	91x24	Consolas w400 20.8px	0.94
+ocr	to	746,33	23x24	Consolas w400 20.8px	0.99
+ocr	the	855,33	34x24	Consolas w400 20.8px	0.97
+ocr	Drafts	899,33	68x24	Consolas w400 20.8px	0.95
+ocr	Pictures	24,73	106x28	Consolas w400 24.0px	0.99
+ocr	shared	138,73	79x28	Consolas w400 24.0px	0.99
+ocr	folder.	226,73	92x28	Consolas w400 24.0px	0.99
+ocr	Our	327,73	40x28	Consolas w400 24.0px	1.00
+ocr	team	375,73	53x28	Consolas w400 24.0px	0.99
+ocr	will	436,73	53x28	Consolas w400 24.0px	0.99
+ocr	meet	598,73	53x28	Consolas w400 24.0px	0.99
+ocr	clock	659,73	66x28	Consolas w400 24.0px	0.99
+ocr	Settings	768,73	106x28	Consolas w400 24.0px	0.99
+ocr	Tuesday	882,73	92x28	Consolas w400 24.0px	0.99
+ocr	Open	983,73	53x28	Consolas w400 24.0px	0.99
+ocr	on	734,74	25x26	Consolas w400 24.0px	0.97
+ocr	morning	24,121	103x31	Consolas w400 26.8px	1.00
+ocr	Open	135,121	59x31	Consolas w400 26.8px	1.00
+ocr	Downloads	202,121	132x31	Consolas w400 26.8px	0.99
+ocr	to	342,121	29x31	Consolas w400 26.8px	1.00
+ocr	agree	380,121	74x31	Consolas w400 26.8px	1.00
+ocr	the	462,121	44x31	Consolas w400 26.8px	1.00
+ocr	Accept	552,121	88x31	Consolas w400 26.8px	1.00
+ocr	final	648,121	74x31	Consolas w400 26.8px	1.00
+ocr	version,	768,121	118x31	Consolas w400 26.8px	1.00
+ocr	then	894,121	59x31	Consolas w400 26.8px	1.00
+ocr	249.99	1005,121	88x31	Consolas w400 26.8px	0.99
+ocr	send	1101,121	59x31	Consolas w400 26.8px	1.00
+ocr	docked	709,173	99x33	Arial w600 30.0px	0.95
+ocr	Reply	889,171	82x35	Consolas w400 30.0px	0.93
+ocr	Sign	1324,171	66x35	Consolas w400 30.0px	0.94
+ocr	Save	815,174	66x33	Arial w600 30.0px	0.93
+ocr	to	24,229	36x38	Consolas w400 32.5px	0.98
+ocr	Sign	966,229	71x38	Consolas w400 32.5px	0.96
+ocr	update	1221,229	107x38	Consolas w400 32.5px	0.93
+ocr	the	1435,229	54x38	Consolas w400 32.5px	0.96
+ocr	09:30	753,230	88x37	Consolas w400 32.0px	0.99
+ocr	100%	1093,230	71x38	Consolas w400 32.5px	0.94
+ocr	37.5%	1336,230	89x38	Consolas w400 32.5px	0.95
+ocr	contact	25,293	142x43	Consolas w400 37.0px	0.98
+ocr	31/01/2025	181,293	203x43	Consolas w400 37.0px	0.98
+ocr	Insert	535,293	122x43	Consolas w400 37.0px	0.97
+ocr	Search	671,293	122x43	Consolas w400 37.0px	0.98
+ocr	list	806,293	81x43	Consolas w400 37.0px	0.99
+ocr	1001	901,293	81x43	Consolas w400 37.0px	0.99
+ocr	Tools	996,293	102x43	Consolas w400 37.0px	0.98
+ocr	and	1111,293	61x43	Consolas w400 37.0px	0.99
+ocr	Help	1185,293	81x43	Consolas w400 37.0px	0.98
+ocr	Drafts	1280,293	122x43	Consolas w400 37.0px	0.98
+ocr	Settings	1512,293	163x43	Consolas w400 37.0px	0.98
+ocr	confirm	25,359	81x25	Consolas w400 21.0px	0.96
+ocr	File	168,359	46x25	Consolas w400 21.0px	0.98
+ocr	Outbox	222,359	69x25	Consolas w400 21.0px	0.95
+ocr	Recent	300,359	69x25	Consolas w400 21.0px	0.95
+ocr	the	378,359	35x25	Consolas w400 21.0px	0.98
+ocr	09:30	499,359	58x25	Consolas w400 21.0px	0.97
+ocr	Bluetooth	620,359	104x25	Consolas w400 21.0px	0.95
+ocr	booking.	1053,359	92x25	Consolas w400 21.0px	0.96
+ocr	offices	147,399	92x28	Consolas w400 24.0px	0.97
+ocr	often	248,399	66x28	Consolas w400 24.0px	0.97
+ocr	Display	322,399	92x28	Consolas w400 24.0px	0.97
+ocr	249.99	463,399	79x28	Consolas w400 24.0px	0.96
+ocr	Drafts	611,399	79x28	Consolas w400 24.0px	0.97
+ocr	the	699,399	40x28	Consolas w400 24.0px	0.97
+ocr	into	896,399	53x28	Consolas w400 24.0px	0.97
+ocr	a	958,400	12x26	Consolas w400 24.0px	0.98
+ocr	Pictures	979,399	106x28	Consolas w400 24.0px	0.97

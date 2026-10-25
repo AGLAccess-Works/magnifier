@@ -1,0 +1,117 @@
+# runs 53 (app 0, label 0, ocr 53)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 60
+#   "moming" @ 24,36 h19
+#   "agree" @ 211,41 h14
+#   "the" @ 264,36 h15
+#   "version," @ 345,36 h18
+#   "then" @ 421,36 h15
+#   "send" @ 466,36 h15
+#   "37.5%" @ 513,37 h14
+#   "Recent" @ 575,37 h14
+#   "View" @ 642,36 h15
+#   "Documents" @ 24,79 h16
+#   "Drafts" @ 142,78 h17
+#   "Install" @ 426,78 h17
+#   "Remember" @ 494,78 h17
+#   "INV-20419" @ 608,79 h16
+#   "Edit" @ 864,78 h17
+#   "00" @ 25,127 h18
+#   "docked" @ 72,126 h19
+#   "AIB2-C3D4" @ 157,127 h18
+#   "€1,249.99" @ 303,127 h22
+#   "list" @ 621,126 h19
+#   "INV-20419" @ 727,127 h18
+#   "and" @ 859,126 h19
+#   "bam" @ 1039,126 h19
+#   "Cancel" @ 103,180 h19
+#   "room" @ 311,186 h13
+#   "00" @ 387,180 h19
+#   "Modern" @ 712,180 h19
+#   "Print" @ 823,180 h19
+#   "R2-D2" @ 898,180 h19
+#   "offices" @ 25,237 h22
+#   "31/01/2025" @ 123,237 h22
+#   "burn" @ 278,237 h22
+#   "Install" @ 424,237 h22
+#   "IOg" @ 514,237 h29
+#   "Illustrator" @ 565,237 h22
+#   "turn" @ 701,240 h19
+#   "the" @ 763,237 h22
+#   "Tools" @ 814,237 h22
+#   "modern" @ 896,237 h22
+#   "corner" @ 1005,245 h14
+#   "rn" @ 1096,245 h14
+#   "room" @ 1133,245 h14
+#   "report" @ 89,304 h30
+#   "v2.xlsx" @ 196,300 h27
+#   "00" @ 319,301 h25
+#   "bam" @ 665,300 h26
+#   "Q3" @ 25,363 h18
+#   "repon" @ 61,364 h17
+#   "v2.xlsx" @ 123,362 h15
+#   "Illinois" @ 192,362 h15
+#   "14:05" @ 262,363 h14
+#   "Illustrated" @ 583,362 h15
+#   "guides" @ 677,362 h19
+#   "€1,249.99" @ 24,405 h20
+#   "barn" @ 129,405 h16
+#   "Q3" @ 460,405 h20
+#   "report_v2.xlsx" @ 503,405 h21
+#   "File" @ 658,405 h16
+#   "00" @ 705,405 h16
+#   "software," @ 784,405 h20
+ocr	Network	104,32	73x23	Arial w400 20.0px	0.85
+ocr	final	300,33	37x23	Arial w400 20.0px	0.83
+ocr	it	697,32	11x25	Arial w400 20.0px	0.92
+ocr	to	187,34	15x21	Arial w400 20.0px	0.91
+ocr	to	716,34	15x21	Arial w400 20.0px	0.91
+ocr	Save	211,71	46x30	Segoe UI w400 22.5px	0.87
+ocr	the	292,72	30x28	Segoe UI w400 22.5px	0.89
+ocr	board.	329,72	60x28	Segoe UI w400 22.5px	0.88
+ocr	to	727,72	20x28	Segoe UI w400 22.5px	0.93
+ocr	update	753,72	66x28	Segoe UI w400 22.5px	0.86
+ocr	the	826,72	30x28	Segoe UI w400 22.5px	0.89
+ocr	contact	418,119	77x32	Segoe UI w400 23.8px	0.90
+ocr	out	502,119	35x32	Segoe UI w400 23.8px	0.94
+ocr	Apply	546,121	67x30	Segoe UI w400 23.8px	0.81
+ocr	Open	662,119	58x32	Segoe UI w400 23.8px	0.89
+ocr	confirm	905,119	85x34	Segoe UI w400 23.8px	0.87
+ocr	the	998,119	34x32	Segoe UI w400 23.8px	0.91
+ocr	Open	25,174	66x32	Georgia w400 27.8px	0.88
+ocr	Updates	198,175	102x32	Georgia w400 27.8px	0.87
+ocr	booking.	434,175	106x32	Georgia w400 27.8px	0.89
+ocr	Recent	551,174	87x32	Georgia w400 28.5px	0.84
+ocr	Sent	647,174	55x32	Georgia w400 27.8px	0.91
+ocr	olive	989,175	58x32	Georgia w400 27.8px	0.85
+ocr	olive	1057,175	58x32	Georgia w400 27.8px	0.85
+ocr	cloud	1126,175	67x32	Georgia w400 27.8px	0.88
+ocr	often	347,229	66x37	Segoe UI w600 27.5px	0.88
+ocr	Q3	24,292	45x43	Times New Roman w400 36.8px	0.98
+ocr	Archive	384,292	118x43	Times New Roman w400 36.8px	0.97
+ocr	Install	559,292	92x43	Times New Roman w400 36.8px	0.98
+ocr	out	745,292	47x43	Times New Roman w400 36.8px	0.94
+ocr	Updates	805,292	120x43	Times New Roman w400 36.8px	0.96
+ocr	Illinois	939,292	104x43	Times New Roman w400 36.8px	0.98
+ocr	Insert	1057,292	84x43	Times New Roman w400 36.8px	0.99
+ocr	1001	1156,292	74x43	Times New Roman w400 36.8px	0.96
+ocr	Cancel	1242,292	102x43	Times New Roman w400 36.8px	0.97
+ocr	into	1358,292	57x43	Times New Roman w400 36.8px	0.99
+ocr	Outbox	1430,292	110x43	Times New Roman w400 36.8px	0.95
+ocr	quiet	332,355	46x27	Segoe UI w400 20.2px	0.87
+ocr	space	383,357	47x25	Segoe UI w400 20.2px	0.94
+ocr	for	438,355	25x27	Segoe UI w400 20.2px	0.91
+ocr	calls.	470,355	42x27	Segoe UI w400 20.2px	0.89
+ocr	Apply	523,355	52x27	Segoe UI w400 20.2px	0.88
+ocr	Inbox	740,355	50x27	Segoe UI w400 20.2px	0.83
+ocr	explain	797,355	63x27	Segoe UI w400 20.2px	0.90
+ocr	a	315,360	10x21	Segoe UI w400 20.2px	0.89
+ocr	how	186,401	42x25	Arial w600 21.2px	0.91
+ocr	to	237,401	20x25	Arial w600 21.2px	0.93
+ocr	Documents	266,401	116x25	Arial w600 21.2px	0.90
+ocr	install	388,401	61x25	Arial w600 21.2px	0.84
+ocr	the	744,401	32x25	Arial w600 21.2px	0.93
+ocr	clear	885,401	50x25	Arial w600 21.2px	0.91
+ocr	14:05	945,401	54x25	Arial w600 21.2px	0.83
+ocr	the	1009,401	32x25	Arial w600 21.2px	0.93

@@ -1,0 +1,116 @@
+# runs 64 (app 0, label 0, ocr 64)
+# collisions 0
+# mixed-style neighbours 1
+#   ocr "and" Segoe UI w400 35.2px  |  ocr "Save" Consolas w400 36.0px
+# not redrawn 47
+#   "corner" @ 358,41 h12
+#   "É19.99" @ 497,37 h16
+#   "AIB2-C3D4" @ 854,37 h16
+#   "Modern" @ 26,78 h19
+#   "nn" @ 280,84 h13
+#   "00" @ 318,79 h18
+#   "Illinois" @ 361,78 h19
+#   "turn" @ 514,80 h17
+#   "corner" @ 701,84 h13
+#   "room" @ 882,84 h13
+#   "Personalisation" @ 105,126 h21
+#   "11" @ 315,126 h21
+#   "100%" @ 364,127 h20
+#   "Illustrated" @ 928,126 h21
+#   "Notifications" @ 27,179 h23
+#   "AIB2-C3D4" @ 243,180 h22
+#   "00" @ 442,180 h22
+#   "Illinois" @ 582,179 h23
+#   "Accessibility" @ 913,179 h29
+#   "to" @ 1128,181 h21
+#   "1001" @ 1174,180 h22
+#   "00" @ 1265,180 h22
+#   "barn" @ 1515,179 h23
+#   "software," @ 87,236 h31
+#   "log" @ 454,236 h31
+#   "Search" @ 513,236 h25
+#   "11" @ 958,237 h24
+#   "learn" @ 1149,236 h25
+#   "restart" @ 1240,238 h23
+#   "Pinned" @ 27,301 h28
+#   "computer" @ 237,303 h33
+#   "Accessibility" @ 426,301 h35
+#   "Reply" @ 781,301 h35
+#   "INV-20419" @ 896,301 h28
+#   "mm" @ 1114,308 h21
+#   "Settings" @ 1652,301 h35
+#   "nn" @ 259,367 h12
+#   "09:30" @ 397,363 h16
+#   "37.5%" @ 542,363 h16
+#   "corner" @ 912,367 h12
+#   "09:30" @ 122,405 h18
+#   "1001" @ 210,405 h18
+#   "Forward" @ 382,404 h19
+#   "Friday." @ 503,404 h24
+#   "Inbox" @ 785,404 h19
+#   "nn" @ 874,409 h14
+#   "31/01/2025" @ 1000,404 h23
+ocr	100%	24,28	58x32	Segoe UI w600 24.0px	0.82
+ocr	Display	96,29	74x30	Segoe UI w600 24.0px	0.89
+ocr	and	181,29	38x30	Segoe UI w600 24.0px	0.97
+ocr	confirm	227,29	79x30	Segoe UI w600 24.0px	0.96
+ocr	the	315,29	33x30	Segoe UI w600 24.0px	0.97
+ocr	Settings	579,29	86x30	Segoe UI w600 24.0px	0.92
+ocr	illegal	675,29	61x30	Segoe UI w600 24.0px	0.91
+ocr	Bluetooth	744,29	101x30	Segoe UI w600 24.0px	0.95
+ocr	Account	985,29	84x30	Segoe UI w600 24.0px	0.97
+ocr	booking.	1078,29	90x30	Segoe UI w600 24.0px	0.94
+ocr	room	433,32	56x26	Segoe UI w600 24.0px	0.90
+ocr	offices	121,68	77x36	Segoe UI w400 26.8px	0.87
+ocr	often	207,69	62x36	Segoe UI w400 26.8px	0.93
+ocr	clear	448,68	56x36	Segoe UI w400 26.8px	0.91
+ocr	100%	572,69	70x36	Segoe UI w400 26.8px	0.91
+ocr	the	653,68	38x36	Segoe UI w400 26.8px	0.95
+ocr	Format	787,68	84x36	Segoe UI w400 26.8px	0.90
+ocr	into	951,69	46x36	Segoe UI w400 26.8px	0.93
+ocr	Tools	25,115	68x39	Segoe UI w600 29.2px	0.84
+ocr	quiet	448,116	68x39	Segoe UI w600 29.2px	0.91
+ocr	Updates	524,115	110x39	Segoe UI w600 29.2px	0.93
+ocr	clock	642,115	68x39	Segoe UI w600 29.2px	0.92
+ocr	for	803,115	38x39	Segoe UI w600 29.2px	0.95
+ocr	calls.	850,115	64x39	Segoe UI w600 29.2px	0.91
+ocr	View	1072,117	62x38	Segoe UI w600 29.2px	0.95
+ocr	guides	1143,115	88x39	Segoe UI w600 29.2px	0.94
+ocr	space	720,121	75x33	Segoe UI w600 29.2px	0.89
+ocr	a	337,122	14x30	Segoe UI w600 29.2px	0.86
+ocr	Help	496,172	73x39	Arial w600 33.5px	0.93
+ocr	explain	705,172	115x39	Arial w600 33.5px	0.92
+ocr	how	834,173	67x39	Arial w600 33.5px	0.92
+ocr	Help	1318,172	73x39	Arial w600 33.5px	0.93
+ocr	install	1403,173	97x39	Arial w600 33.5px	0.86
+ocr	the	25,223	50x47	Segoe UI w400 35.2px	0.94
+ocr	Cancel	247,223	103x47	Segoe UI w400 35.2px	0.91
+ocr	clear	364,223	73x47	Segoe UI w400 35.2px	0.91
+ocr	the	633,223	50x47	Segoe UI w400 35.2px	0.94
+ocr	cache	695,223	89x47	Segoe UI w400 35.2px	0.88
+ocr	and	797,223	59x47	Segoe UI w400 35.2px	0.97
+ocr	Calendar	994,223	138x47	Segoe UI w400 35.2px	0.90
+ocr	Save	867,228	79x42	Consolas w400 36.0px	0.94
+ocr	update	1381,287	125x52	Arial w400 42.0px	0.91
+ocr	the	161,291	63x49	Arial w400 42.0px	0.85
+ocr	when	667,292	94x46	Arial w400 42.0px	0.92
+ocr	the	1195,291	63x49	Arial w400 42.0px	0.85
+ocr	cloud	1270,292	94x46	Arial w400 42.0px	0.94
+ocr	has	1524,292	64x46	Arial w400 42.0px	0.96
+ocr	finished.	24,353	88x32	Segoe UI w400 24.0px	0.93
+ocr	Archive	122,353	78x32	Segoe UI w400 24.0px	0.95
+ocr	The	210,353	39x32	Segoe UI w400 24.0px	0.95
+ocr	quarterly	291,353	95x32	Segoe UI w400 24.0px	0.84
+ocr	report	467,353	66x32	Segoe UI w400 24.0px	0.91
+ocr	Display	619,353	77x32	Segoe UI w400 24.0px	0.90
+ocr	is	704,353	16x32	Segoe UI w400 24.0px	0.95
+ocr	ready	729,353	59x32	Segoe UI w400 24.0px	0.94
+ocr	review	834,353	68x32	Segoe UI w400 24.0px	0.90
+ocr	for	796,354	28x30	Segoe UI w400 24.0px	0.97
+ocr	before	284,397	87x33	Arial w600 28.5px	0.90
+ocr	the	1178,394	41x36	Arial w600 28.5px	0.88
+ocr	Cancel	23,399	89x31	Arial w600 28.5px	0.91
+ocr	Please	603,398	86x31	Arial w600 28.5px	0.90
+ocr	check	698,398	77x31	Arial w600 28.5px	0.93
+ocr	Reply	916,399	74x31	Arial w600 28.5px	0.89
+ocr	Pinned	1230,399	90x31	Arial w600 28.5px	0.89

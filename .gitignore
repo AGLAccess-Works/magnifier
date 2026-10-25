@@ -1,0 +1,19 @@
+build/
+build-*/
+*.user
+.vs/
+
+# Local editor and macOS state
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Private configuration and signing material
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key

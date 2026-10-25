@@ -1,0 +1,116 @@
+# runs 69 (app 0, label 0, ocr 69)
+# collisions 0
+# mixed-style neighbours 2
+#   ocr "Pinned" Segoe UI w400 12.5px  |  ocr "31/01/2025" Georgia w400 12.0px
+#   ocr "space" Segoe UI w400 12.5px  |  ocr "31/01/2025" Georgia w400 12.0px
+# not redrawn 41
+#   "AE2-C3D4" @ 11,19 h10
+#   "room" @ 72,21 h6
+#   "Modem" @ 172,18 h9
+#   "offices" @ 214,18 h9
+#   "tum" @ 278,19 h8
+#   "Pinnad" @ 323,18 h9
+#   "corner" @ 391,21 h6
+#   "room" @ 426,21 h6
+#   "File" @ 12,39 h10
+#   "Accessü)llity" @ 62,39 h13
+#   "00" @ 215,40 h9
+#   "37-5%" @ 380,40 h11
+#   "to" @ 132,65 h9
+#   "ID-0011" @ 332,63 h11
+#   "leam" @ 442,63 h11
+#   "clear" @ 477,63 h11
+#   "El,249-99" @ 510,64 h13
+#   "restart" @ 242,94 h9
+#   "Install" @ 299,91 h12
+#   "0.75" @ 353,95 h11
+#   "INV-20419" @ 391,92 h14
+#   "AIB2-C3D4" @ 507,92 h14
+#   "computer" @ 599,94 h12
+#   "Forward" @ 678,91 h12
+#   "00" @ 429,122 h9
+#   "31/01/2025" @ 504,119 h15
+#   "review" @ 42,153 h14
+#   "00" @ 225,157 h10
+#   "Settings" @ 300,153 h18
+#   "Friday." @ 373,153 h18
+#   "out" @ 707,155 h12
+#   "Documents" @ 12,184 h8
+#   "section" @ 121,184 h8
+#   "tvn" @ 159,184 h8
+#   "Displzy-" @ 246,183 h11
+#   "comments" @ 286,184 h8
+#   "Inbox" @ 374,183 h9
+#   "11" @ 135,207 h7
+#   "Network" @ 150,204 h10
+#   "turn" @ 208,205 h9
+#   "clock" @ 312,204 h10
+ocr	rum	102,17	19x13	Segoe UI w400 11.0px	0.90
+ocr	booking.	127,15	43x15	Segoe UI w400 11.0px	0.93
+ocr	often	248,15	26x15	Segoe UI w400 11.0px	0.90
+ocr	the	303,15	16x15	Segoe UI w400 11.0px	0.94
+ocr	cloud	361,15	27x15	Segoe UI w400 11.0px	0.91
+ocr	cloud	456,15	27x15	Segoe UI w400 11.0px	0.91
+ocr	into	36,36	22x17	Segoe UI w400 12.5px	0.92
+ocr	Cancel	132,36	37x17	Segoe UI w400 12.5px	0.96
+ocr	a	172,36	6x17	Segoe UI w400 12.5px	0.97
+ocr	quiet	183,36	28x17	Segoe UI w400 12.5px	0.96
+ocr	Pinned	237,36	38x17	Segoe UI w400 12.5px	0.93
+ocr	space	346,36	31x17	Segoe UI w400 12.5px	0.91
+ocr	for	417,36	16x17	Segoe UI w400 12.5px	0.96
+ocr	calls.	437,36	26x17	Segoe UI w400 12.5px	0.96
+ocr	Illustrated	469,36	55x17	Segoe UI w400 12.5px	0.95
+ocr	31/01/2025	279,38	63x14	Georgia w400 12.0px	0.95
+ocr	guides	13,62	37x14	Georgia w400 12.8px	0.92
+ocr	explain	57,62	41x14	Georgia w400 12.8px	0.91
+ocr	how	103,62	24x14	Georgia w400 12.8px	0.95
+ocr	install	149,62	35x14	Georgia w400 12.8px	0.89
+ocr	the	189,62	18x14	Georgia w400 12.8px	0.90
+ocr	Illinois	213,62	40x14	Georgia w400 12.8px	0.91
+ocr	31/01/2025	259,62	67x14	Georgia w400 12.8px	0.92
+ocr	software,	385,62	52x14	Georgia w400 12.8px	0.92
+ocr	the	573,62	18x14	Georgia w400 12.8px	0.90
+ocr	cache	12,89	44x17	Georgia w600 15.2px	0.99
+ocr	and	60,89	30x17	Georgia w600 15.2px	0.98
+ocr	the	478,89	25x17	Georgia w600 15.2px	0.99
+ocr	when	749,89	43x17	Georgia w600 15.2px	0.99
+ocr	Apply	796,89	45x17	Georgia w600 15.2px	0.95
+ocr	Archive	844,89	61x17	Georgia w600 15.2px	0.95
+ocr	cloud	12,114	42x21	Segoe UI w700 16.0px	0.85
+ocr	the	56,114	25x21	Segoe UI w700 16.0px	0.94
+ocr	update	85,115	47x20	Segoe UI w700 16.0px	0.94
+ocr	has	138,114	25x21	Segoe UI w700 16.0px	0.96
+ocr	finished.	168,114	64x21	Segoe UI w700 16.0px	0.89
+ocr	The	236,114	28x21	Segoe UI w700 16.0px	0.90
+ocr	quarterly	267,114	66x21	Segoe UI w700 16.0px	0.92
+ocr	View	338,114	37x21	Segoe UI w700 16.0px	0.91
+ocr	report	377,114	48x21	Segoe UI w700 16.0px	0.82
+ocr	Install	453,114	46x21	Segoe UI w700 16.0px	0.89
+ocr	is	593,114	12x21	Segoe UI w700 16.0px	0.94
+ocr	ready	609,114	42x21	Segoe UI w700 16.0px	0.87
+ocr	for	11,148	25x24	Segoe UI w700 18.0px	0.92
+ocr	before	102,148	56x24	Segoe UI w700 18.0px	0.85
+ocr	Search	163,148	56x24	Segoe UI w700 18.0px	0.89
+ocr	clear	253,148	40x24	Segoe UI w700 18.0px	0.92
+ocr	Please	438,148	53x24	Segoe UI w700 18.0px	0.89
+ocr	Display	497,148	62x24	Segoe UI w700 18.0px	0.90
+ocr	check	565,148	48x24	Segoe UI w700 18.0px	0.91
+ocr	Insert	619,148	49x24	Segoe UI w700 18.0px	0.93
+ocr	the	674,148	28x24	Segoe UI w700 18.0px	0.93
+ocr	figures	70,180	33x15	Segoe UI w400 11.0px	0.91
+ocr	in	107,180	9x15	Segoe UI w400 11.0px	0.92
+ocr	and	181,180	18x15	Segoe UI w400 11.0px	0.92
+ocr	add	203,180	19x15	Segoe UI w400 11.0px	0.93
+ocr	any	226,180	17x15	Segoe UI w400 11.0px	0.90
+ocr	to	340,180	10x15	Segoe UI w400 11.0px	0.97
+ocr	the	354,180	16x15	Segoe UI w400 11.0px	0.94
+ocr	Help	406,180	23x15	Segoe UI w400 11.0px	0.90
+ocr	shared	13,199	41x18	Segoe UI w600 13.5px	0.94
+ocr	folder.	59,199	39x18	Segoe UI w600 13.5px	0.93
+ocr	Our	105,199	23x18	Segoe UI w600 13.5px	0.91
+ocr	team	240,199	31x18	Segoe UI w600 13.5px	0.96
+ocr	Open	275,199	33x18	Segoe UI w600 13.5px	0.93
+ocr	Documents	349,199	70x18	Segoe UI w600 13.5px	0.95
+ocr	Display	424,199	45x18	Segoe UI w600 13.5px	0.89
+ocr	will	476,199	21x18	Segoe UI w600 13.5px	0.91
+ocr	meet	502,199	31x18	Segoe UI w600 13.5px	0.96

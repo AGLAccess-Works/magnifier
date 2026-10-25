@@ -1,0 +1,34 @@
+// Version information shown in the exe's Properties > Details.
+#include <winres.h>
+
+#define STR2(x) #x
+#define STR(x) STR2(x)
+#define VERSION_TEXT STR(MAGNIFIER_VERSION_MAJOR) "." STR(MAGNIFIER_VERSION_MINOR) "." STR(MAGNIFIER_VERSION_PATCH) ".0"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION MAGNIFIER_VERSION_MAJOR, MAGNIFIER_VERSION_MINOR, MAGNIFIER_VERSION_PATCH, 0
+PRODUCTVERSION MAGNIFIER_VERSION_MAJOR, MAGNIFIER_VERSION_MINOR, MAGNIFIER_VERSION_PATCH, 0
+FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+FILEFLAGS 0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+FILESUBTYPE VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080904B0"
+        BEGIN
+            VALUE "CompanyName", "AGL Access Works"
+            VALUE "FileDescription", "Full-screen magnifier by Alex Liddell / AGL Access Works"
+            VALUE "FileVersion", VERSION_TEXT
+            VALUE "InternalName", "Magnifier"
+            VALUE "OriginalFilename", "Magnifier.exe"
+            VALUE "ProductName", "Magnifier"
+            VALUE "ProductVersion", VERSION_TEXT
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0809, 1200
+    END
+END

@@ -1,0 +1,36 @@
+# runs 0 (app 0, label 0, ocr 0)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 32
+#   "*dear'the" @ 88,18 h13
+#   "c•che" @ 150,20 h10
+#   "and" @ 188,20 h10
+#   "restart" @ 216,21 h9
+#   "the" @ 257,20 h10
+#   "computer" @ 281,21 h12
+#   "when" @ 342,20 h10
+#   "the" @ 12,47 h12
+#   "update" @ 41,47 h16
+#   "finished." @ 125,47 h12
+#   "The" @ 188,47 h12
+#   "quarterly" @ 220,47 h16
+#   "report" @ 289,49 h20
+#   "is" @ 338,47 h12
+#   "ready" @ 354,47 h16
+#   "for" @ 398,47 h12
+#   "review" @ 13,81 h14
+#   "Criday." @ 141,81 h18
+#   "Please" @ 207,81 h14
+#   "check" @ 268,81 h14
+#   "the" @ 324,81 h14
+#   "two" @ 519,82 h13
+#   "and" @ 13,120 h18
+#   "add" @ 63,120 h18
+#   "any" @ 114,126 h18
+#   "comments" @ 164,122 h16
+#   "to" @ 289,122 h16
+#   "the" @ 322,120 h18
+#   "shared" @ 368,120 h18
+#   "folder." @ 451,120 h18
+#   "Our" @ 535,121 h17
+#   "team" @ 585,122 h16

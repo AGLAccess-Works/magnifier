@@ -1,0 +1,116 @@
+# runs 78 (app 0, label 0, ocr 78)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 34
+#   "22/18/2026" @ 13,18 h9
+#   "11" @ 76,18 h8
+#   "clack" @ 92,18 h8
+#   "occuments" @ 175,18 h8
+#   "uetwork" @ 311,18 h8
+#   "00" @ 320,40 h8
+#   "a." @ 418,40 h8
+#   "7S" @ 432,40 h8
+#   "turn" @ 486,40 h8
+#   "rn" @ 13,67 h6
+#   "11" @ 32,65 h8
+#   "R2-D2" @ 51,65 h8
+#   "00" @ 370,65 h8
+#   "burn" @ 390,64 h9
+#   "22/10/2026" @ 480,64 h10
+#   "Illustrator" @ 89,90 h10
+#   "Iøel" @ 359,90 h10
+#   "9.75" @ 426,90 h10
+#   "comments" @ 525,91 h9
+#   "to" @ 594,91 h9
+#   "El," @ 111,121 h13
+#   "Downloads" @ 255,120 h11
+#   "00" @ 424,121 h10
+#   "on" @ 139,156 h9
+#   "Tuesday" @ 165,152 h17
+#   "morning" @ 244,152 h17
+#   "corner" @ 465,156 h9
+#   "privacy" @ 181,183 h10
+#   "11" @ 227,183 h8
+#   "cancel" @ 323,183 h8
+#   "11" @ 364,184 h7
+#   "ru-2341B" @ 503,184 h7
+#   "11" @ 321,205 h8
+#   "nn" @ 513,207 h6
+ocr	the	125,16	19x13	Consolas w400 11.2px	0.98
+ocr	Edit	147,16	25x13	Consolas w400 11.2px	0.93
+ocr	computer	231,16	49x13	Consolas w400 11.2px	0.94
+ocr	when	283,16	25x13	Consolas w400 11.2px	0.96
+ocr	Apply	356,16	31x13	Consolas w400 11.2px	0.94
+ocr	the	391,16	19x13	Consolas w400 11.2px	0.98
+ocr	update	412,16	37x13	Consolas w400 11.2px	0.97
+ocr	has	453,16	19x13	Consolas w400 11.2px	0.98
+ocr	olive	475,16	31x13	Consolas w400 11.2px	0.92
+ocr	finished.	12,37	59x14	Consolas w400 12.0px	0.99
+ocr	Print	76,37	33x14	Consolas w400 12.0px	0.98
+ocr	The	113,37	20x14	Consolas w400 12.0px	0.98
+ocr	quarterly	137,37	59x14	Consolas w400 12.0px	0.99
+ocr	report	201,37	40x14	Consolas w400 12.0px	0.99
+ocr	Open	245,37	26x14	Consolas w400 12.0px	0.98
+ocr	Cancel	276,37	40x14	Consolas w400 12.0px	0.99
+ocr	View	338,37	26x14	Consolas w400 12.0px	0.99
+ocr	File	369,37	26x14	Consolas w400 12.0px	0.99
+ocr	is	400,37	13x14	Consolas w400 12.0px	0.99
+ocr	ready	449,37	33x14	Consolas w400 12.0px	0.99
+ocr	for	103,61	21x15	Consolas w400 13.0px	0.98
+ocr	cloud	129,61	36x15	Consolas w400 13.0px	0.96
+ocr	review	171,61	43x15	Consolas w400 13.0px	0.96
+ocr	before	218,61	43x15	Consolas w400 13.0px	0.95
+ocr	Friday.	267,61	50x15	Consolas w400 13.0px	0.95
+ocr	Please	322,61	43x15	Consolas w400 13.0px	0.97
+ocr	Network	424,61	50x15	Consolas w400 13.0px	0.96
+ocr	check	12,86	41x18	Consolas w400 15.0px	0.95
+ocr	the	58,86	25x18	Consolas w400 15.0px	0.96
+ocr	figures	182,86	58x18	Consolas w400 15.0px	0.94
+ocr	in	244,86	16x18	Consolas w400 15.0px	0.96
+ocr	section	266,86	58x18	Consolas w400 15.0px	0.92
+ocr	two	328,86	25x18	Consolas w400 15.0px	0.96
+ocr	and	396,86	25x18	Consolas w400 15.0px	0.97
+ocr	add	464,86	25x18	Consolas w400 15.0px	0.97
+ocr	any	494,86	25x18	Consolas w400 15.0px	0.97
+ocr	Account	12,116	62x19	Consolas w400 16.0px	0.99
+ocr	the	79,116	26x19	Consolas w400 16.0px	0.99
+ocr	249.99	137,116	53x19	Consolas w400 16.0px	0.97
+ocr	shared	196,116	53x19	Consolas w400 16.0px	0.99
+ocr	Documents	339,116	79x19	Consolas w400 16.0px	0.99
+ocr	folder.	447,116	62x19	Consolas w400 16.0px	0.99
+ocr	Our	514,116	26x19	Consolas w400 16.0px	1.00
+ocr	team	546,116	35x19	Consolas w400 16.0px	0.99
+ocr	Install	587,116	62x19	Consolas w400 16.0px	0.99
+ocr	Sent	654,116	35x19	Consolas w400 16.0px	0.99
+ocr	will	695,116	35x19	Consolas w400 16.0px	0.99
+ocr	meet	736,116	35x19	Consolas w400 16.0px	0.99
+ocr	Drafts	13,148	60x21	Consolas w400 18.2px	0.95
+ocr	09:30	81,147	50x21	Consolas w400 18.2px	0.91
+ocr	Inbox	322,148	50x21	Consolas w400 18.2px	0.95
+ocr	Reply	380,148	50x21	Consolas w400 18.2px	0.95
+ocr	to	437,148	20x21	Consolas w400 18.2px	0.95
+ocr	100%	533,148	40x21	Consolas w400 18.2px	0.92
+ocr	Drafts	581,148	60x21	Consolas w400 18.2px	0.95
+ocr	agree	649,148	50x21	Consolas w400 18.2px	0.97
+ocr	the	707,148	30x21	Consolas w400 18.2px	0.95
+ocr	100%	744,148	40x21	Consolas w400 18.2px	0.92
+ocr	final	146,181	30x13	Consolas w400 10.8px	0.99
+ocr	Notifications	242,181	77x13	Consolas w400 10.8px	0.97
+ocr	version,	379,181	47x13	Consolas w400 10.8px	0.98
+ocr	then	430,181	24x13	Consolas w400 10.8px	0.99
+ocr	send	458,181	24x13	Consolas w400 10.8px	0.99
+ocr	it	486,181	12x13	Consolas w400 10.8px	0.99
+ocr	out	559,181	18x13	Consolas w400 10.8px	0.99
+ocr	Accept	581,181	35x13	Consolas w400 10.8px	0.99
+ocr	Help	12,202	26x14	Consolas w400 12.0px	0.99
+ocr	to	43,202	13x14	Consolas w400 12.0px	0.99
+ocr	the	61,202	20x14	Consolas w400 12.0px	0.99
+ocr	board.	85,202	40x14	Consolas w400 12.0px	0.99
+ocr	Personalisation	129,202	99x14	Consolas w400 12.0px	0.99
+ocr	Sign	232,202	26x14	Consolas w400 12.0px	0.99
+ocr	Remember	263,202	53x14	Consolas w400 12.0px	0.99
+ocr	to	338,202	13x14	Consolas w400 12.0px	0.99
+ocr	update	356,202	40x14	Consolas w400 12.0px	0.99
+ocr	Illinois	400,202	53x14	Consolas w400 12.0px	0.99
+ocr	the	457,202	20x14	Consolas w400 12.0px	0.99
+ocr	View	481,202	26x14	Consolas w400 12.0px	0.99

@@ -1,0 +1,117 @@
+# runs 80 (app 0, label 0, ocr 80)
+# collisions 0
+# mixed-style neighbours 1
+#   ocr "the" Segoe UI w400 19.8px  |  ocr "room" Arial w600 18.5px
+# not redrawn 32
+#   "barn" @ 62,37 h14
+#   "j.smith@example.com" @ 108,37 h18
+#   "learn" @ 721,37 h14
+#   "11" @ 774,38 h13
+#   "00" @ 802,38 h13
+#   "00" @ 119,182 h18
+#   "www.example.co.uk/help" @ 303,179 h26
+#   "meet" @ 1128,183 h17
+#   "Accessibility" @ 1199,180 h25
+#   "on" @ 1359,186 h14
+#   "morning" @ 144,237 h27
+#   "Q3_report" @ 263,238 h26
+#   "v2.xlsx" @ 415,236 h22
+#   "[NV-20419" @ 552,238 h20
+#   "version," @ 1058,237 h25
+#   "to" @ 189,306 h21
+#   "Remember" @ 599,302 h25
+#   "00" @ 779,304 h23
+#   "log" @ 836,302 h31
+#   "11" @ 894,302 h25
+#   "to" @ 922,306 h21
+#   "nn" @ 1212,310 h17
+#   "09:30" @ 61,364 h13
+#   "AIB2-C3D4" @ 441,364 h13
+#   "log" @ 638,363 h18
+#   "Modern" @ 860,363 h14
+#   "clear" @ 180,406 h16
+#   "turn" @ 298,408 h14
+#   "j.smith@example.com" @ 469,406 h20
+#   "nn" @ 703,411 h11
+#   "corner" @ 832,411 h11
+#   "modern" @ 905,406 h16
+ocr	has	24,30	30x26	Segoe UI w400 19.8px	0.97
+ocr	Format	311,30	62x26	Segoe UI w400 19.8px	0.97
+ocr	finished.	381,30	73x26	Segoe UI w400 19.8px	0.93
+ocr	The	463,30	32x26	Segoe UI w400 19.8px	0.95
+ocr	quarterly	502,30	78x26	Segoe UI w400 19.8px	0.94
+ocr	Sent	589,30	39x26	Segoe UI w400 19.8px	0.95
+ocr	report	636,30	54x26	Segoe UI w400 19.8px	0.88
+ocr	is	699,30	13x26	Segoe UI w400 19.8px	0.97
+ocr	ready	837,30	48x26	Segoe UI w400 19.8px	0.93
+ocr	37.5%	24,72	60x30	Segoe UI w400 22.5px	0.92
+ocr	for	92,73	28x30	Segoe UI w400 22.5px	0.93
+ocr	review	130,73	64x30	Segoe UI w400 22.5px	0.89
+ocr	before	203,72	65x30	Segoe UI w400 22.5px	0.91
+ocr	Search	275,73	66x30	Segoe UI w400 22.5px	0.88
+ocr	Friday.	350,73	65x30	Segoe UI w400 22.5px	0.89
+ocr	Pictures	424,73	78x30	Segoe UI w400 22.5px	0.91
+ocr	Install	511,73	58x30	Segoe UI w400 22.5px	0.88
+ocr	Forward	578,73	81x30	Segoe UI w400 22.5px	0.89
+ocr	Please	668,72	63x30	Segoe UI w400 22.5px	0.92
+ocr	check	739,72	56x30	Segoe UI w400 22.5px	0.91
+ocr	the	803,73	32x30	Segoe UI w400 22.5px	0.91
+ocr	figures	845,73	64x28	Segoe UI w400 22.5px	0.83
+ocr	in	919,73	18x30	Segoe UI w400 22.5px	0.94
+ocr	section	25,118	78x32	Segoe UI w600 24.0px	0.91
+ocr	two	112,119	41x32	Segoe UI w600 24.0px	0.92
+ocr	Accept	161,118	75x32	Segoe UI w600 24.0px	0.91
+ocr	and	245,118	41x32	Segoe UI w600 24.0px	0.93
+ocr	add	294,119	41x32	Segoe UI w600 24.0px	0.95
+ocr	Tools	344,119	56x32	Segoe UI w600 24.0px	0.88
+ocr	any	410,118	39x32	Segoe UI w600 24.0px	0.92
+ocr	comments	456,118	114x32	Segoe UI w600 24.0px	0.92
+ocr	to	579,119	23x32	Segoe UI w600 24.0px	0.93
+ocr	the	610,118	35x32	Segoe UI w600 24.0px	0.94
+ocr	1001	685,118	55x34	Segoe UI w600 24.0px	0.82
+ocr	shared	749,118	73x32	Segoe UI w600 24.0px	0.92
+ocr	folder.	829,118	69x32	Segoe UI w600 24.0px	0.90
+ocr	Pinned	24,171	84x36	Segoe UI w600 26.8px	0.95
+ocr	Our	167,171	46x36	Segoe UI w600 26.8px	0.95
+ocr	Insert	224,171	69x36	Segoe UI w600 26.8px	0.94
+ocr	Display	629,171	88x36	Segoe UI w600 26.8px	0.96
+ocr	Inbox	728,171	68x36	Segoe UI w600 26.8px	0.96
+ocr	Open	806,171	66x36	Segoe UI w600 26.8px	0.95
+ocr	Calendar	881,171	107x36	Segoe UI w600 26.8px	0.95
+ocr	team	1001,172	61x34	Segoe UI w600 26.8px	0.95
+ocr	will	1074,171	41x36	Segoe UI w600 26.8px	0.91
+ocr	Tuesday	25,226	106x39	Segoe UI w400 30.2px	0.93
+ocr	Downloads	698,226	144x39	Segoe UI w400 30.2px	0.92
+ocr	agree	853,226	73x39	Segoe UI w400 30.2px	0.90
+ocr	the	938,226	42x39	Segoe UI w400 30.2px	0.96
+ocr	final	992,226	55x39	Segoe UI w400 30.2px	0.97
+ocr	then	1173,226	58x39	Segoe UI w400 30.2px	0.93
+ocr	send	1244,226	61x39	Segoe UI w400 30.2px	0.97
+ocr	it	1316,226	17x39	Segoe UI w400 30.2px	0.99
+ocr	clock	1346,226	66x39	Segoe UI w400 30.2px	0.97
+ocr	to	511,231	29x35	Arial w600 30.2px	0.94
+ocr	board.	400,289	100x47	Segoe UI w400 35.2px	0.86
+ocr	Bluetooth	23,290	152x47	Segoe UI w400 35.2px	0.87
+ocr	the	233,290	50x47	Segoe UI w400 35.2px	0.96
+ocr	Drafts	295,290	93x47	Segoe UI w400 35.2px	0.93
+ocr	Help	512,290	73x47	Segoe UI w400 35.2px	0.85
+ocr	docked	967,291	108x44	Segoe UI w400 35.2px	0.91
+ocr	update	1090,292	102x44	Segoe UI w400 35.2px	0.92
+ocr	the	24,356	28x26	Segoe UI w400 19.8px	0.98
+ocr	Downloads	115,356	97x26	Segoe UI w400 19.8px	0.93
+ocr	contact	219,356	64x26	Segoe UI w400 19.8px	0.95
+ocr	list	293,356	25x26	Segoe UI w400 19.8px	0.96
+ocr	and	326,356	33x26	Segoe UI w400 19.8px	0.94
+ocr	confirm	365,356	67x26	Segoe UI w400 19.8px	0.95
+ocr	the	547,356	28x26	Segoe UI w400 19.8px	0.98
+ocr	booking.	670,356	74x25	Segoe UI w400 19.0px	0.94
+ocr	Documents	751,356	99x26	Segoe UI w400 19.8px	0.87
+ocr	room	583,361	46x21	Arial w600 18.5px	0.91
+ocr	Display	23,399	74x30	Segoe UI w600 22.5px	0.93
+ocr	offices	105,399	67x30	Segoe UI w600 22.5px	0.94
+ocr	often	236,399	54x30	Segoe UI w600 22.5px	0.94
+ocr	Downloads	348,399	114x30	Segoe UI w600 22.5px	0.93
+ocr	the	736,399	33x30	Segoe UI w600 22.5px	0.94
+ocr	Sent	777,398	45x30	Segoe UI w600 22.5px	0.93
+ocr	into	1053,399	40x30	Segoe UI w600 22.5px	0.95
+ocr	room	991,403	54x25	Segoe UI w600 22.5px	0.83

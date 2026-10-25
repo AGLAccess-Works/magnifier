@@ -1,0 +1,40 @@
+# runs 1 (app 0, label 0, ocr 1)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 35
+#   "the" @ 24,42 h20
+#   "cache" @ 72,42 h20
+#   "and" @ 148,42 h20
+#   "restart" @ 202,44 h18
+#   "the" @ 284,42 h20
+#   "computer" @ 332,44 h24
+#   "when" @ 453,42 h20
+#   "the" @ 525,42 h20
+#   "'üpda+n" @ 570,38 h30
+#   "—s" @ 666,42 h20
+#   "finishedäThe.quarterly" @ 25,94 h33
+#   "report" @ 353,99 h29
+#   "is" @ 451,97 h23
+#   "ready" @ 483,96 h29
+#   "for" @ 571,96 h24
+#   "review" @ 622,97 h23
+#   "befoöe" @ 723,95 h25
+#   "Pl" @ 27,158 h28
+#   "check" @ 148,158 h28
+#   "figures" @ 330,158 h37
+#   "in" @ 466,158 h28
+#   "seetion" @ 511,158 h31
+#   "twn" @ 649,161 h25
+#   "—d" @ 730,158 h28
+#   "a"" @ 807,158 h28
+#   "any'" @ 886,167 h24
+#   "comments" @ 26,241 h32
+#   "to" @ 276,241 h32
+#   "the" @ 340,237 h36
+#   "sharedfolder." @ 429,237 h36
+#   "Our" @ 761,239 h34
+#   "team" @ 860,241 h32
+#   "will" @ 989,237 h36
+#   "meet" @ 1087,241 h32
+#   "on" @ 1216,248 h25
+ocr	the	258,146	57x50	Segoe UI w700 37.2px	0.94

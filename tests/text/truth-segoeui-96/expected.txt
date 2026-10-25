@@ -1,0 +1,115 @@
+# runs 76 (app 0, label 0, ocr 76)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 35
+#   "Oocumerts" @ 143,18 h8
+#   "IO'" @ 231,18 h10
+#   "Settitvs" @ 250,18 h10
+#   "quarterty" @ 413,18 h10
+#   "repot" @ 461,18 h10
+#   "0.75" @ 494,18 h8
+#   "react}" @ 531,18 h10
+#   "A182-C3C4" @ 305,41 h9
+#   "Updates" @ 198,64 h13
+#   "mm" @ 251,67 h7
+#   "corner" @ 364,67 h7
+#   "11" @ 533,64 h10
+#   "commene" @ 42,92 h10
+#   "rn" @ 207,94 h8
+#   "will" @ 557,91 h11
+#   "OO" @ 13,120 h11
+#   "El,249.99" @ 39,120 h13
+#   "0.75" @ 456,120 h11
+#   "R2-D2" @ 555,120 h11
+#   "morning" @ 13,153 h18
+#   "11" @ 298,153 h14
+#   "serd" @ 99,183 h8
+#   "Repty" @ 127,183 h10
+#   "it" @ 157,183 h8
+#   "00" @ 167,183 h8
+#   "LIS."" @ 185,183 h8
+#   "docked" @ 241,183 h8
+#   "00" @ 280,183 h8
+#   "0.75" @ 296,183 h8
+#   "CO" @ 320,183 h8
+#   "11" @ 77,206 h9
+#   "learn" @ 231,206 h9
+#   "Q3_report_v2xlsx" @ 347,206 h12
+#   "'NV-20419" @ 453,206 h9
+#   "contact" @ 517,207 h8
+ocr	Updates	13,14	39x14	Segoe UI w400 10.8px	0.94
+ocr	Tools	201,14	24x14	Segoe UI w400 10.8px	0.87
+ocr	Account	291,14	39x14	Segoe UI w400 10.8px	0.95
+ocr	The	334,14	17x14	Segoe UI w400 10.8px	0.96
+ocr	Downloads	356,14	53x14	Segoe UI w400 10.8px	0.95
+ocr	is	518,14	7x14	Segoe UI w400 10.8px	0.98
+ocr	Archive	13,37	39x16	Segoe UI w400 12.0px	0.94
+ocr	Accessibility	57,37	64x16	Segoe UI w400 12.0px	0.97
+ocr	for	124,37	15x16	Segoe UI w400 12.0px	0.98
+ocr	review	143,37	34x16	Segoe UI w400 12.0px	0.98
+ocr	before	182,37	35x16	Segoe UI w400 12.0px	0.99
+ocr	Personalisation	221,37	80x16	Segoe UI w400 12.0px	0.98
+ocr	Friday.	371,37	35x16	Segoe UI w400 12.0px	0.99
+ocr	Please	410,37	33x16	Segoe UI w400 12.0px	0.99
+ocr	Account	449,37	44x16	Segoe UI w400 12.0px	0.95
+ocr	check	497,37	30x16	Segoe UI w400 12.0px	0.96
+ocr	Privacy	531,37	37x16	Segoe UI w400 12.0px	0.96
+ocr	Sign	573,37	23x16	Segoe UI w400 12.0px	0.98
+ocr	Inbox	601,37	30x16	Segoe UI w400 12.0px	0.99
+ocr	cloud	12,60	32x18	Segoe UI w400 13.2px	0.98
+ocr	the	49,60	19x18	Segoe UI w400 13.2px	0.95
+ocr	Notifications	73,60	74x18	Segoe UI w400 13.2px	0.93
+ocr	figures	152,60	40x18	Segoe UI w400 13.2px	0.98
+ocr	in	277,60	11x18	Segoe UI w400 13.2px	0.99
+ocr	Documents	292,60	67x18	Segoe UI w400 13.2px	0.93
+ocr	section	406,60	42x18	Segoe UI w400 13.2px	0.98
+ocr	two	451,60	22x18	Segoe UI w400 13.2px	0.94
+ocr	and	478,60	22x18	Segoe UI w400 13.2px	0.99
+ocr	add	505,60	22x18	Segoe UI w400 13.2px	0.97
+ocr	any	12,85	24x21	Segoe UI w400 15.5px	0.95
+ocr	View	120,85	33x21	Segoe UI w400 15.5px	0.94
+ocr	to	159,85	14x21	Segoe UI w400 15.5px	0.94
+ocr	the	179,85	22x21	Segoe UI w400 15.5px	0.95
+ocr	shared	226,85	46x21	Segoe UI w400 15.5px	0.87
+ocr	folder.	279,85	44x21	Segoe UI w400 15.5px	0.93
+ocr	Our	329,85	26x21	Segoe UI w400 15.5px	0.92
+ocr	Privacy	361,85	48x21	Segoe UI w400 15.5px	0.91
+ocr	Cancel	415,85	45x21	Segoe UI w400 15.5px	0.95
+ocr	team	467,85	35x21	Segoe UI w400 15.5px	0.96
+ocr	Cancel	506,85	45x21	Segoe UI w400 15.5px	0.95
+ocr	31/01/2025	112,114	81x21	Segoe UI w400 16.0px	0.94
+ocr	meet	198,114	36x21	Segoe UI w400 16.0px	0.97
+ocr	on	239,115	17x20	Segoe UI w400 16.0px	0.95
+ocr	Install	263,114	41x21	Segoe UI w400 16.0px	0.97
+ocr	Delete	310,114	46x21	Segoe UI w400 16.0px	0.94
+ocr	Notifications	361,114	90x21	Segoe UI w400 16.0px	0.89
+ocr	Tuesday	490,114	58x21	Segoe UI w400 16.0px	0.94
+ocr	Display	604,114	51x21	Segoe UI w400 16.0px	0.99
+ocr	Tools	662,114	36x21	Segoe UI w400 16.0px	0.95
+ocr	100%	705,114	39x21	Segoe UI w400 16.0px	0.94
+ocr	to	89,147	17x24	Segoe UI w400 18.0px	0.94
+ocr	agree	114,147	45x24	Segoe UI w400 18.0px	0.88
+ocr	the	166,147	26x24	Segoe UI w400 18.0px	0.92
+ocr	Help	200,148	37x24	Segoe UI w400 18.0px	0.87
+ocr	Inbox	245,148	44x24	Segoe UI w400 18.0px	0.86
+ocr	docked	314,148	58x24	Segoe UI w400 18.0px	0.83
+ocr	Reply	381,148	43x24	Segoe UI w400 18.0px	0.82
+ocr	final	433,148	34x24	Segoe UI w400 18.0px	0.84
+ocr	clear	474,148	38x24	Segoe UI w400 18.0px	0.84
+ocr	22/10/2026	519,148	92x24	Segoe UI w400 18.0px	0.90
+ocr	version,	619,146	67x25	Segoe UI w400 18.0px	0.90
+ocr	Share	691,148	45x24	Segoe UI w400 18.0px	0.86
+ocr	Illinois	12,179	32x15	Segoe UI w400 11.2px	0.94
+ocr	olive	46,179	23x15	Segoe UI w400 11.2px	0.95
+ocr	then	73,179	22x15	Segoe UI w400 11.2px	0.98
+ocr	out	221,179	17x15	Segoe UI w400 11.2px	0.97
+ocr	to	341,179	10x15	Segoe UI w400 11.2px	0.98
+ocr	board.	34,201	36x17	Segoe UI w400 12.8px	0.91
+ocr	Delete	87,201	36x17	Segoe UI w400 12.8px	0.92
+ocr	Reply	129,201	31x17	Segoe UI w400 12.8px	0.91
+ocr	update	279,201	40x17	Segoe UI w400 12.8px	0.91
+ocr	list	563,201	16x17	Segoe UI w400 12.8px	0.92
+ocr	the	13,202	18x17	Segoe UI w400 12.8px	0.92
+ocr	Remember	165,202	61x17	Segoe UI w400 12.8px	0.91
+ocr	to	264,202	11x16	Segoe UI w400 12.0px	0.96
+ocr	the	325,202	18x17	Segoe UI w400 12.8px	0.92

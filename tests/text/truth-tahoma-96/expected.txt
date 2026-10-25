@@ -1,0 +1,114 @@
+# runs 78 (app 0, label 0, ocr 78)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 32
+#   "contad" @ 12,19 h8
+#   "Cancel" @ 92,18 h9
+#   "confin" @ 126,18 h9
+#   "v.vm.example.co.uk$help" @ 319,18 h11
+#   "Repb/" @ 443,18 h11
+#   "Edt" @ 473,18 h9
+#   "leam" @ 495,18 h9
+#   "Modern" @ 85,39 h10
+#   "00" @ 200,40 h9
+#   "turn" @ 219,40 h9
+#   "11" @ 246,39 h10
+#   "corner" @ 310,42 h7
+#   "software," @ 93,90 h15
+#   "rn" @ 427,94 h8
+#   "www.example.co.uk/help" @ 447,90 h15
+#   "E19.99" @ 735,91 h11
+#   "00" @ 12,120 h12
+#   "00" @ 231,120 h12
+#   "11" @ 260,120 h12
+#   "11" @ 131,151 h15
+#   "ready" @ 271,151 h19
+#   "Friday." @ 471,151 h19
+#   "Pinned" @ 533,151 h15
+#   "corner" @ 653,156 h10
+#   "IOg" @ 51,183 h11
+#   "Cancel" @ 303,183 h9
+#   "figures" @ 409,183 h11
+#   "31/01/2025" @ 458,183 h11
+#   "10-0011" @ 60,204 h10
+#   "R2-D2" @ 318,205 h9
+#   "comments" @ 360,205 h9
+#   "1001" @ 484,205 h9
+ocr	list	51,17	13x12	Arial w400 10.8px	0.95
+ocr	and	69,17	18x12	Arial w400 10.8px	0.96
+ocr	Format	166,17	34x12	Arial w400 10.8px	0.94
+ocr	Documents	204,17	54x12	Arial w400 10.8px	0.92
+ocr	Format	261,17	34x12	Arial w400 10.8px	0.94
+ocr	the	300,16	16x13	Arial w400 11.2px	0.93
+ocr	room	522,17	24x12	Arial w400 10.8px	0.96
+ocr	out	12,38	17x14	Arial w400 12.2px	0.96
+ocr	booking.	34,38	46x14	Arial w400 12.2px	0.96
+ocr	offices	128,38	35x14	Arial w400 12.2px	0.91
+ocr	often	167,38	27x14	Arial w400 12.2px	0.92
+ocr	Close	254,38	31x14	Arial w400 12.2px	0.88
+ocr	the	288,38	17x14	Arial w400 12.2px	0.93
+ocr	Updates	347,38	46x14	Arial w400 12.2px	0.95
+ocr	room	396,38	28x14	Arial w400 12.2px	0.96
+ocr	into	429,38	20x14	Arial w400 12.2px	0.95
+ocr	quiet	23,59	30x18	Segoe UI w400 13.2px	0.90
+ocr	space	57,59	33x18	Segoe UI w400 13.2px	0.98
+ocr	for	95,59	17x18	Segoe UI w400 13.2px	0.95
+ocr	View	116,59	28x18	Segoe UI w400 13.2px	0.99
+ocr	calls.	148,59	28x18	Segoe UI w400 13.2px	0.98
+ocr	Illustrated	183,59	58x18	Segoe UI w400 13.2px	0.96
+ocr	Personalisation	246,59	88x18	Segoe UI w400 13.2px	0.95
+ocr	guides	339,59	39x18	Segoe UI w400 13.2px	0.87
+ocr	explain	382,59	41x18	Segoe UI w400 13.2px	0.94
+ocr	100%	428,59	32x18	Segoe UI w400 13.2px	0.93
+ocr	Close	467,59	32x18	Segoe UI w400 13.2px	0.96
+ocr	how	502,59	25x18	Segoe UI w400 13.2px	0.95
+ocr	to	531,59	12x18	Segoe UI w400 13.2px	0.93
+ocr	install	12,85	47x22	Segoe UI w700 16.5px	0.92
+ocr	the	62,84	25x22	Segoe UI w700 16.5px	0.93
+ocr	clear	168,84	37x22	Segoe UI w700 16.5px	0.95
+ocr	Help	209,84	36x22	Segoe UI w700 16.5px	0.92
+ocr	cloud	248,84	43x22	Segoe UI w700 16.5px	0.91
+ocr	Cancel	293,84	51x22	Segoe UI w700 16.5px	0.92
+ocr	the	347,84	25x22	Segoe UI w700 16.5px	0.93
+ocr	cache	378,84	44x22	Segoe UI w700 16.5px	0.95
+ocr	Format	642,85	56x22	Segoe UI w700 16.5px	0.91
+ocr	and	701,84	29x22	Segoe UI w700 16.5px	0.95
+ocr	restart	35,117	45x19	Arial w400 16.0px	0.91
+ocr	the	88,117	22x19	Arial w400 16.0px	0.94
+ocr	computer	115,117	67x19	Arial w400 16.0px	0.84
+ocr	when	187,117	38x19	Arial w400 16.0px	0.95
+ocr	Edit	275,117	28x19	Arial w400 16.0px	0.86
+ocr	the	309,117	22x19	Arial w400 16.0px	0.94
+ocr	Downloads	336,117	79x19	Arial w400 16.0px	0.96
+ocr	update	418,117	49x19	Arial w400 16.0px	0.94
+ocr	has	473,117	26x19	Arial w400 16.0px	0.91
+ocr	Account	503,117	54x17	Arial w400 16.0px	0.96
+ocr	finished.	565,117	60x19	Arial w400 16.0px	0.91
+ocr	The	11,148	34x23	Arial w400 19.8px	0.94
+ocr	quarterly	49,147	77x23	Arial w400 19.8px	0.86
+ocr	report	144,148	52x23	Arial w400 19.8px	0.89
+ocr	cloud	200,148	45x22	Arial w400 19.8px	0.91
+ocr	for	322,148	23x23	Arial w400 19.8px	0.92
+ocr	review	350,148	57x23	Arial w400 19.8px	0.88
+ocr	before	410,148	56x23	Arial w400 19.8px	0.89
+ocr	Please	594,149	54x20	Arial w400 19.8px	0.91
+ocr	is	251,150	13x20	Arial w400 19.8px	0.95
+ocr	the	390,181	16x13	Arial w400 11.2px	0.93
+ocr	Format	12,182	34x12	Arial w400 10.8px	0.94
+ocr	olive	160,182	22x12	Arial w400 10.8px	0.93
+ocr	Tools	186,182	25x12	Arial w400 10.8px	0.94
+ocr	Documents	215,182	54x12	Arial w400 10.8px	0.92
+ocr	Close	272,182	27x12	Arial w400 10.8px	0.93
+ocr	check	337,182	28x12	Arial w400 10.8px	0.96
+ocr	File	368,182	17x12	Arial w400 10.8px	0.95
+ocr	in	445,182	8x12	Arial w400 10.8px	0.96
+ocr	section	12,199	44x18	Segoe UI w600 13.5px	0.96
+ocr	Drafts	112,199	37x18	Segoe UI w600 13.5px	0.94
+ocr	Pictures	155,199	48x18	Segoe UI w600 13.5px	0.96
+ocr	two	209,199	23x18	Segoe UI w600 13.5px	0.98
+ocr	and	237,199	23x18	Segoe UI w600 13.5px	0.97
+ocr	add	263,199	23x18	Segoe UI w600 13.5px	0.97
+ocr	any	291,199	22x18	Segoe UI w600 13.5px	0.97
+ocr	Share	427,199	34x18	Segoe UI w600 13.5px	0.93
+ocr	to	466,199	13x18	Segoe UI w600 13.5px	0.97
+ocr	the	518,199	20x18	Segoe UI w600 13.5px	0.98

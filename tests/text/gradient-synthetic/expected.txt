@@ -1,0 +1,34 @@
+# runs 26 (app 0, label 0, ocr 26)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 4
+#   "Caption" @ 37,314 h14
+#   "over" @ 94,317 h8
+#   "textured" @ 139,314 h11
+#   "photo" @ 200,314 h14
+ocr	Settings	38,49	52x20	Segoe UI w400 14.8px	0.93
+ocr	panel	96,49	36x20	Segoe UI w400 14.8px	0.91
+ocr	with	138,49	28x20	Segoe UI w400 14.8px	0.93
+ocr	a	170,49	8x20	Segoe UI w400 14.8px	0.99
+ocr	gentle	183,49	41x20	Segoe UI w400 14.8px	0.93
+ocr	gradient	230,49	55x20	Segoe UI w400 14.8px	0.88
+ocr	Headline	617,48	61x21	Segoe UI w400 15.5px	0.96
+ocr	beside	681,48	45x21	Segoe UI w400 15.5px	0.94
+ocr	a	730,49	8x20	Segoe UI w400 15.0px	0.99
+ocr	window	742,48	53x21	Segoe UI w400 15.5px	0.97
+ocr	shadow	798,48	53x21	Segoe UI w400 15.5px	0.96
+ocr	Accept	36,181	49x17	Arial w600 14.8px	0.90
+ocr	and	89,181	26x17	Arial w600 14.8px	0.99
+ocr	continue	119,181	61x17	Arial w600 14.8px	0.95
+ocr	Tinted	617,181	42x18	Arial w400 15.2px	0.90
+ocr	card	664,181	30x18	Arial w400 15.2px	0.87
+ocr	with	698,181	27x18	Arial w400 15.2px	0.89
+ocr	a	730,181	8x18	Arial w400 15.2px	0.93
+ocr	diagonal	743,181	58x18	Arial w400 15.2px	0.91
+ocr	blend	807,181	37x18	Arial w400 15.2px	0.94
+ocr	Plain	617,309	31x20	Segoe UI w400 14.8px	0.93
+ocr	text	654,309	24x20	Segoe UI w400 14.8px	0.98
+ocr	on	683,309	17x20	Segoe UI w400 14.8px	0.98
+ocr	white	706,309	35x20	Segoe UI w400 14.8px	0.93
+ocr	for	746,309	18x20	Segoe UI w400 14.8px	0.95
+ocr	comparison	770,309	76x20	Segoe UI w400 14.8px	0.92

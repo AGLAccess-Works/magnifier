@@ -1,0 +1,152 @@
+# runs 40 (app 0, label 0, ocr 40)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 108
+#   "AIB2-C3D4" @ 24,39 h15
+#   "nn" @ 141,43 h11
+#   "11" @ 174,39 h15
+#   "19.99" @ 204,39 h15
+#   "rn" @ 262,43 h11
+#   "j.smith@example.com" @ 286,38 h21
+#   "rnm" @ 581,43 h11
+#   "www.example.co.uk/help" @ 701,38 h21
+#   "Q3" @ 943,39 h17
+#   "report" @ 979,40 h19
+#   "v2.xlsx" @ 1043,38 h16
+#   "corner" @ 25,86 h12
+#   "ID-OOII" @ 102,80 h18
+#   "mm" @ 344,86 h12
+#   "mm" @ 394,86 h12
+#   "barn" @ 445,80 h18
+#   "11" @ 502,81 h17
+#   "AIB2-C3D4" @ 521,81 h17
+#   "burn" @ 654,80 h18
+#   "f19.99" @ 711,81 h17
+#   "learn" @ 26,129 h22
+#   "AIB2-C3D4" @ 305,130 h21
+#   "turn" @ 569,132 h19
+#   "00" @ 633,130 h21
+#   "j.smith@example.com" @ 676,129 h29
+#   "INV-20419" @ 974,130 h21
+#   "rn" @ 1122,136 h15
+#   "turn" @ 1156,132 h19
+#   "j.smith@example.com" @ 188,180 h18
+#   "www.example.co.uk/help" @ 391,179 h19
+#   "1,249.99" @ 635,181 h16
+#   "log" @ 717,180 h18
+#   "19.99" @ 762,181 h13
+#   "log" @ 817,180 h18
+#   "rn" @ 850,184 h10
+#   "19.99" @ 888,181 h13
+#   "Q3" @ 1013,181 h15
+#   "report" @ 1048,181 h17
+#   "v2.xlsx" @ 1110,180 h14
+#   "Q3_report_v2.xlsx" @ 25,223 h20
+#   "turn" @ 335,225 h14
+#   "00" @ 386,224 h15
+#   "nn" @ 420,228 h11
+#   "Q3_report_v2.xlsx" @ 453,223 h20
+#   "INV-20419" @ 641,224 h15
+#   "barn" @ 1001,223 h16
+#   "INV-20419" @ 101,274 h18
+#   "modern" @ 306,272 h20
+#   "INV-20419" @ 410,274 h18
+#   "j.smith@example.com" @ 543,272 h25
+#   "corner" @ 822,279 h13
+#   "El,249.99" @ 910,274 h22
+#   "E19.99" @ 1038,274 h18
+#   "AIB2-C3D4" @ 1128,274 h18
+#   "corner" @ 216,326 h11
+#   "ID-OOII" @ 285,322 h15
+#   "nn" @ 441,326 h11
+#   "log" @ 541,322 h19
+#   "INV-20419" @ 603,322 h15
+#   "OO" @ 711,322 h15
+#   "barn" @ 25,365 h17
+#   "modern" @ 82,365 h17
+#   "burn" @ 172,365 h17
+#   "00" @ 306,365 h17
+#   "00" @ 399,365 h17
+#   "ID-OOII" @ 446,365 h17
+#   "burn" @ 536,365 h17
+#   "INV-20419" @ 594,365 h17
+#   "burn" @ 26,414 h21
+#   "El" @ 92,414 h21
+#   "OO" @ 233,414 h21
+#   "31/01/2025" @ 348,414 h21
+#   "E19.99" @ 503,414 h21
+#   "nn" @ 604,420 h15
+#   "burn" @ 646,414 h21
+#   "nn" @ 714,420 h15
+#   "OO" @ 755,414 h21
+#   "mm" @ 805,420 h15
+#   "ID-OOII" @ 864,414 h21
+#   "22/10/2026" @ 25,465 h20
+#   "AIB2-C3D4" @ 141,466 h16
+#   "burn" @ 256,465 h17
+#   "11" @ 307,466 h16
+#   "R2-D2" @ 330,466 h16
+#   "barn" @ 396,465 h17
+#   "j.smith@example.com" @ 507,465 h21
+#   "modern" @ 724,465 h17
+#   "OO" @ 858,466 h16
+#   "INV-20419" @ 889,466 h16
+#   "Q3_report_v2.xlsx" @ 25,507 h24
+#   "IOg" @ 226,507 h24
+#   "www.example.co.uk/help" @ 393,507 h24
+#   "Illustrator" @ 739,507 h19
+#   "11" @ 850,508 h18
+#   "docked" @ 876,507 h19
+#   "modern" @ 961,507 h19
+#   "modern" @ 1051,507 h19
+#   "rn" @ 1141,513 h13
+#   "log" @ 26,557 h28
+#   "22/10/2026" @ 73,557 h27
+#   "11" @ 234,557 h22
+#   "00" @ 322,558 h21
+#   "log" @ 365,557 h28
+#   "Illinois" @ 412,557 h22
+#   "barn" @ 506,557 h22
+#   "El,249.99" @ 656,558 h26
+#   "turn" @ 794,558 h21
+#   "j.smith@example.com" @ 856,557 h28
+ocr	docked	501,31	69x28	Segoe UI w400 21.2px	0.93
+ocr	docked	623,31	69x28	Segoe UI w400 21.2px	0.93
+ocr	09:30	1113,31	50x28	Segoe UI w400 21.2px	0.92
+ocr	14:05	191,72	57x32	Segoe UI w400 24.0px	0.98
+ocr	docked	256,72	78x32	Segoe UI w400 24.0px	0.99
+ocr	22/10/2026	788,72	122x32	Segoe UI w400 24.0px	0.98
+ocr	19.99	114,119	69x39	Segoe UI w400 29.2px	0.99
+ocr	clear	192,119	61x39	Segoe UI w400 29.2px	0.96
+ocr	11	264,119	32x39	Segoe UI w400 29.2px	0.98
+ocr	docked	463,119	95x39	Segoe UI w400 29.2px	0.93
+ocr	100%	24,172	49x27	Segoe UI w400 20.2px	0.94
+ocr	22/10/2026	79,173	103x27	Segoe UI w400 20.2px	0.89
+ocr	docked	941,173	64x26	Segoe UI w400 19.8px	0.93
+ocr	R2-D2	211,216	59x28	Segoe UI w400 22.5px	0.90
+ocr	clear	279,216	47x30	Segoe UI w400 22.5px	0.89
+ocr	Illustrator	752,216	95x30	Segoe UI w400 22.5px	0.86
+ocr	docked	855,215	73x30	Segoe UI w400 22.5px	0.90
+ocr	14:05	935,215	53x30	Segoe UI w400 22.5px	0.89
+ocr	cloud	24,263	65x36	Segoe UI w400 26.8px	0.90
+ocr	1001	236,264	58x36	Segoe UI w400 27.0px	0.89
+ocr	31/01/2025	1272,263	144x38	Segoe UI w400 27.0px	0.92
+ocr	clear	1423,262	59x38	Segoe UI w400 27.0px	0.93
+ocr	docked	25,317	69x25	Arial w400 21.2px	0.94
+ocr	14:05	100,317	53x25	Arial w400 21.2px	0.94
+ocr	clear	162,317	46x25	Arial w400 21.2px	0.95
+ocr	docked	365,317	69x25	Arial w400 21.2px	0.94
+ocr	R2-D2	471,317	61x25	Arial w400 21.2px	0.96
+ocr	37.5%	228,359	68x28	Arial w400 24.0px	0.97
+ocr	olive	340,359	49x28	Arial w400 24.0px	0.93
+ocr	clock	715,359	55x28	Arial w400 24.0px	0.97
+ocr	clear	778,359	52x28	Arial w400 24.0px	0.97
+ocr	,249.99	126,403	94x40	Segoe UI w400 30.0px	0.93
+ocr	clear	275,404	63x40	Segoe UI w400 30.0px	0.83
+ocr	100%	444,461	58x26	Arial w400 22.5px	0.89
+ocr	1001	803,461	47x25	Arial w400 22.5px	0.90
+ocr	100%	264,498	62x34	Segoe UI w400 25.5px	0.89
+ocr	olive	335,499	50x32	Segoe UI w400 25.5px	0.97
+ocr	illegal	669,499	62x32	Segoe UI w400 25.5px	0.95
+ocr	0.75	254,547	59x40	Segoe UI w400 29.8px	0.93
+ocr	illegal	573,548	73x37	Segoe UI w400 29.8px	0.93

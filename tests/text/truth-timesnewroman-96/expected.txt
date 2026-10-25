@@ -1,0 +1,115 @@
+# runs 63 (app 0, label 0, ocr 63)
+# collisions 0
+# mixed-style neighbours 0
+# not redrawn 48
+#   "explain" @ 12,19 h10
+#   "hov,:" @ 48,19 h8
+#   "31/01.702.'" @ 71,19 h8
+#   "install" @ 137,19 h8
+#   "22/102026" @ 168,19 h8
+#   "fl:249.99" @ 283,19 h10
+#   "out" @ 330,20 h7
+#   "mra" @ 348,22 h5
+#   "1405" @ 371,19 h8
+#   "olive" @ 399,19 h8
+#   "modem" @ 31,40 h9
+#   "mm" @ 72,43 h6
+#   "and" @ 127,40 h9
+#   "restaff" @ 149,41 h8
+#   "Illinois" @ 213,40 h9
+#   "report" @ 191,65 h11
+#   "37" @ 227,64 h9
+#   "5%" @ 242,64 h9
+#   "mm" @ 266,67 h6
+#   "comer" @ 339,67 h6
+#   "37" @ 412,64 h9
+#   "5%" @ 427,64 h9
+#   "review" @ 12,92 h10
+#   "docked" @ 59,92 h10
+#   "rnm" @ 552,95 h7
+#   "0.75" @ 602,92 h10
+#   "bum" @ 137,120 h11
+#   "any" @ 272,124 h10
+#   "11" @ 392,120 h11
+#   "Insat" @ 12,153 h12
+#   "meet" @ 287,153 h12
+#   "Tuesday" @ 355,152 h17
+#   "morning" @ 425,152 h17
+#   "22/102026" @ 36,184 h8
+#   "VEfSicq;" @ 89,185 h9
+#   "nn" @ 128,187 h5
+#   "thea" @ 143,184 h8
+#   "Accept" @ 166,184 h10
+#   "said" @ 201,184 h8
+#   "Sent" @ 235,184 h8
+#   "37" @ 258,184 h8
+#   "09:30" @ 290,184 h8
+#   "moen" @ 319,184 h8
+#   "to" @ 356,185 h7
+#   "board," @ 12,205 h9
+#   "to" @ 111,206 h8
+#   "ID-OOII" @ 165,205 h9
+#   "rn" @ 231,208 h6
+ocr	to	124,16	9x13	Segoe UI w400 10.0px	0.96
+ocr	the	221,16	14x13	Segoe UI w400 10.0px	0.94
+ocr	the	12,39	15x13	Arial w400 11.0px	0.94
+ocr	cache	95,39	29x13	Arial w400 11.0px	0.83
+ocr	View	184,38	24x13	Arial w400 11.0px	0.85
+ocr	the	252,39	15x13	Arial w400 11.0px	0.94
+ocr	computer	271,39	46x13	Arial w400 11.0px	0.91
+ocr	when	321,39	26x13	Arial w400 11.0px	0.89
+ocr	the	351,39	15x13	Arial w400 11.0px	0.94
+ocr	Search	370,39	35x13	Arial w400 11.0px	0.83
+ocr	update	406,39	34x13	Arial w400 11.0px	0.92
+ocr	has	12,60	18x16	Segoe UI w400 12.0px	0.92
+ocr	finished.	35,60	44x16	Segoe UI w400 12.0px	0.95
+ocr	Sent	85,60	24x16	Segoe UI w400 12.0px	0.96
+ocr	The	115,60	19x16	Segoe UI w400 12.0px	0.93
+ocr	quarterly	139,60	47x16	Segoe UI w400 12.0px	0.93
+ocr	is	291,60	8x16	Segoe UI w400 12.0px	0.95
+ocr	Close	305,60	29x16	Segoe UI w400 12.0px	0.95
+ocr	ready	378,60	29x16	Segoe UI w400 12.0px	0.92
+ocr	for	452,60	15x16	Segoe UI w400 12.0px	0.95
+ocr	before	109,87	41x19	Georgia w600 14.2px	0.97
+ocr	Please	206,87	40x19	Georgia w600 14.2px	0.97
+ocr	check	251,87	36x19	Georgia w600 14.2px	0.96
+ocr	Display	292,87	49x19	Georgia w600 14.2px	0.93
+ocr	the	345,87	20x19	Georgia w600 14.2px	0.98
+ocr	Pictures	370,87	53x19	Georgia w600 14.2px	0.97
+ocr	figures	428,87	43x19	Georgia w600 14.2px	0.95
+ocr	Documents	476,87	72x19	Georgia w600 14.2px	0.95
+ocr	in	584,87	12x19	Georgia w600 14.2px	0.98
+ocr	Friday.	154,90	47x14	Georgia w600 14.2px	0.96
+ocr	Install	13,116	38x20	Segoe UI w400 14.8px	0.89
+ocr	section	57,116	44x18	Segoe UI w400 14.8px	0.88
+ocr	two	108,116	26x19	Segoe UI w400 14.8px	0.87
+ocr	and	172,116	23x18	Segoe UI w400 14.8px	0.90
+ocr	Share	202,116	34x18	Segoe UI w400 14.8px	0.88
+ocr	add	243,116	23x18	Segoe UI w400 14.8px	0.91
+ocr	comments	301,116	64x18	Segoe UI w400 14.8px	0.91
+ocr	to	372,116	13x18	Segoe UI w400 14.8px	0.93
+ocr	the	411,116	20x18	Segoe UI w400 14.8px	0.89
+ocr	shared	436,116	41x18	Segoe UI w400 14.8px	0.89
+ocr	folder.	484,116	39x18	Segoe UI w400 14.8px	0.81
+ocr	Close	62,149	44x20	Arial w400 17.2px	0.85
+ocr	Our	110,149	29x20	Arial w400 17.2px	0.92
+ocr	will	189,148	29x21	Arial w400 17.2px	0.85
+ocr	Outbox	226,149	56x20	Arial w400 17.2px	0.92
+ocr	on	330,149	19x20	Arial w400 17.2px	0.90
+ocr	to	495,149	14x20	Arial w400 17.2px	0.95
+ocr	agree	515,149	44x20	Arial w400 17.2px	0.83
+ocr	09:30	563,149	43x20	Arial w400 17.2px	0.91
+ocr	the	612,146	25x23	Arial w400 17.2px	0.89
+ocr	team	147,150	34x18	Arial w400 17.2px	0.90
+ocr	it	225,181	6x13	Segoe UI w400 10.0px	0.96
+ocr	the	369,181	14x13	Segoe UI w400 10.0px	0.94
+ocr	Remember	50,203	56x13	Arial w400 11.2px	0.94
+ocr	update	126,203	34x13	Arial w400 11.2px	0.91
+ocr	the	212,203	16x13	Arial w400 11.2px	0.93
+ocr	contact	247,203	36x13	Arial w400 11.2px	0.96
+ocr	list	290,203	14x13	Arial w400 11.2px	0.95
+ocr	and	309,203	19x13	Arial w400 11.2px	0.93
+ocr	Settings	333,203	41x13	Arial w400 11.2px	0.93
+ocr	confirm	380,203	37x13	Arial w400 11.2px	0.88
+ocr	the	424,203	16x13	Arial w400 11.2px	0.93
+ocr	Tools	444,203	26x13	Arial w400 11.2px	0.88

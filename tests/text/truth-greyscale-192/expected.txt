@@ -1,0 +1,101 @@
+# runs 66 (app 0, label 0, ocr 66)
+# collisions 0
+# mixed-style neighbours 2
+#   ocr "Pinned" Segoe UI w400 34.0px  |  ocr "explain" Arial w400 35.8px
+#   ocr "Pinned" Segoe UI w400 34.0px  |  ocr "illegal" Arial w400 35.8px
+# not redrawn 29
+#   "00" @ 130,40 h17
+#   "Tuesday" @ 534,39 h24
+#   "j.smith@example.com" @ 627,39 h24
+#   "00" @ 973,40 h17
+#   "morning" @ 1019,40 h23
+#   "to" @ 101,94 h21
+#   "version," @ 925,92 h27
+#   "mm" @ 264,149 h13
+#   "www.example.co.uk/help" @ 527,145 h22
+#   "00" @ 664,195 h23
+#   "Display" @ 25,252 h23
+#   "confirm" @ 113,252 h18
+#   "Edit" @ 247,252 h18
+#   "Downloads" @ 300,252 h18
+#   "37-5%" @ 491,253 h21
+#   "booking." @ 660,252 h23
+#   "learn" @ 761,252 h18
+#   "Modern" @ 824,252 h18
+#   "Illustrator" @ 918,252 h18
+#   "turn" @ 371,306 h21
+#   "219-99" @ 445,305 h28
+#   "rnm" @ 607,311 h16
+#   "corner" @ 678,311 h16
+#   "rnm" @ 940,311 h16
+#   "burn" @ 26,358 h19
+#   "room" @ 90,364 h13
+#   "nn" @ 238,364 h13
+#   "Illustrated" @ 698,358 h19
+#   "software," @ 1017,409 h31
+ocr	will	24,31	35x32	Segoe UI w400 24.0px	0.99
+ocr	meet	67,31	54x32	Segoe UI w400 24.0px	0.94
+ocr	Notifications	163,31	134x32	Segoe UI w400 24.0px	0.96
+ocr	Sent	343,31	47x32	Segoe UI w400 24.0px	0.95
+ocr	Accessibility	398,31	128x32	Segoe UI w400 24.0px	0.98
+ocr	Calendar	870,31	94x32	Segoe UI w400 24.0px	0.94
+ocr	on	307,36	27x26	Segoe UI w400 24.0px	0.93
+ocr	Save	24,80	65x43	Segoe UI w400 32.0px	0.98
+ocr	Personalisation	141,80	212x43	Segoe UI w400 32.0px	0.89
+ocr	agree	364,80	80x43	Segoe UI w400 32.0px	0.98
+ocr	09:30	454,80	76x43	Segoe UI w400 32.0px	0.97
+ocr	Help	540,80	66x43	Segoe UI w400 32.0px	0.97
+ocr	illegal	618,80	83x43	Segoe UI w400 32.0px	0.97
+ocr	cloud	710,80	78x43	Segoe UI w400 32.0px	0.97
+ocr	the	799,80	46x43	Segoe UI w400 32.0px	0.99
+ocr	final	855,80	60x43	Segoe UI w400 32.0px	0.99
+ocr	then	1044,80	64x43	Segoe UI w400 32.0px	0.99
+ocr	send	24,139	52x28	Arial w400 24.0px	0.98
+ocr	it	85,139	12x28	Arial w400 24.0px	0.97
+ocr	Display	105,139	79x28	Arial w400 24.0px	0.95
+ocr	to	192,139	20x28	Arial w400 24.0px	0.98
+ocr	the	221,139	33x28	Arial w400 24.0px	0.94
+ocr	Accessibility	310,139	131x28	Arial w400 24.0px	0.96
+ocr	board.	450,139	68x28	Arial w400 24.0px	0.97
+ocr	Remember	800,139	119x28	Arial w400 24.0px	0.96
+ocr	to	928,139	20x28	Arial w400 24.0px	0.98
+ocr	Close	957,139	61x28	Arial w400 24.0px	0.99
+ocr	update	23,188	97x37	Arial w400 31.8px	0.93
+ocr	the	132,188	44x37	Arial w400 31.8px	0.97
+ocr	View	187,188	68x37	Arial w400 31.8px	0.98
+ocr	Outbox	267,188	102x37	Arial w400 31.8px	0.96
+ocr	contact	381,188	102x37	Arial w400 31.8px	0.97
+ocr	Close	495,188	81x37	Arial w400 31.8px	0.97
+ocr	olive	586,188	65x37	Arial w400 31.8px	0.93
+ocr	Q3_report_v2.xlsx	716,188	258x37	Arial w400 31.8px	0.93
+ocr	list	986,188	39x37	Arial w400 31.8px	0.99
+ocr	and	1036,188	53x37	Arial w400 31.8px	0.97
+ocr	Notifications	1100,188	173x37	Arial w400 31.8px	0.96
+ocr	the	204,244	34x32	Arial w600 24.0px	0.93
+ocr	Account	564,244	87x32	Arial w600 24.0px	0.86
+ocr	room	427,249	55x25	Arial w600 24.0px	0.92
+ocr	Print	24,298	72x36	Georgia w400 32.0px	0.99
+ocr	offices	105,298	91x36	Georgia w400 32.0px	0.96
+ocr	often	207,298	73x36	Georgia w400 32.0px	0.96
+ocr	clear	292,298	68x36	Georgia w400 32.0px	0.98
+ocr	the	550,298	45x36	Georgia w400 32.0px	0.99
+ocr	Close	780,298	76x36	Georgia w400 32.0px	0.98
+ocr	0.75	867,298	61x36	Georgia w400 32.0px	0.95
+ocr	into	159,349	44x34	Segoe UI w400 25.5px	0.97
+ocr	quiet	275,349	58x34	Segoe UI w400 25.5px	0.93
+ocr	space	345,348	68x36	Segoe UI w400 25.5px	0.98
+ocr	Search	422,348	81x36	Segoe UI w400 25.5px	0.96
+ocr	Open	513,349	62x34	Segoe UI w400 25.5px	0.95
+ocr	calls.	627,348	59x36	Segoe UI w400 25.5px	0.96
+ocr	for	585,350	31x34	Segoe UI w400 25.2px	0.96
+ocr	Pinned	265,397	104x45	Segoe UI w400 34.0px	0.85
+ocr	guides	25,400	105x41	Arial w400 35.8px	0.91
+ocr	explain	140,401	113x41	Arial w400 35.8px	0.91
+ocr	illegal	384,400	91x41	Arial w400 35.8px	0.90
+ocr	how	486,401	66x41	Arial w400 35.8px	0.95
+ocr	illegal	564,400	91x41	Arial w400 35.8px	0.90
+ocr	install	711,401	92x42	Arial w400 36.0px	0.84
+ocr	the	953,401	53x41	Arial w400 35.8px	0.87
+ocr	clear	1175,400	77x41	Arial w400 35.8px	0.91
+ocr	to	666,403	33x40	Arial w400 35.8px	0.86
+ocr	Account	815,402	123x39	Arial w400 35.8px	0.90
